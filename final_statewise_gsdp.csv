@@ -1,0 +1,3241 @@
+item,year,gsdp,state
+"Agriculture, forestry and fishing",2011-12,9400805,Andhra_Pradesh
+"Agriculture, forestry and fishing",2012-13,11186428,Andhra_Pradesh
+"Agriculture, forestry and fishing",2013-14,12895568,Andhra_Pradesh
+"Agriculture, forestry and fishing",2014-15,14819416,Andhra_Pradesh
+"Agriculture, forestry and fishing",2015-16,17326726,Andhra_Pradesh
+"Agriculture, forestry and fishing",2016-17,20386004,Andhra_Pradesh
+Crops,2011-12,5204052,Andhra_Pradesh
+Crops,2012-13,6123041,Andhra_Pradesh
+Crops,2013-14,7114707,Andhra_Pradesh
+Crops,2014-15,7893514,Andhra_Pradesh
+Crops,2015-16,8644285,Andhra_Pradesh
+Crops,2016-17,9717089,Andhra_Pradesh
+Livestock,2011-12,2758776,Andhra_Pradesh
+Livestock,2012-13,3358438,Andhra_Pradesh
+Livestock,2013-14,3643026,Andhra_Pradesh
+Livestock,2014-15,4309078,Andhra_Pradesh
+Livestock,2015-16,5155487,Andhra_Pradesh
+Livestock,2016-17,5979648,Andhra_Pradesh
+Forestry and logging,2011-12,250314,Andhra_Pradesh
+Forestry and logging,2012-13,253029,Andhra_Pradesh
+Forestry and logging,2013-14,280493,Andhra_Pradesh
+Forestry and logging,2014-15,346160,Andhra_Pradesh
+Forestry and logging,2015-16,340550,Andhra_Pradesh
+Forestry and logging,2016-17,335487,Andhra_Pradesh
+Fishing and aquaculture,2011-12,1187663,Andhra_Pradesh
+Fishing and aquaculture,2012-13,1451920,Andhra_Pradesh
+Fishing and aquaculture,2013-14,1857342,Andhra_Pradesh
+Fishing and aquaculture,2014-15,2270664,Andhra_Pradesh
+Fishing and aquaculture,2015-16,3186404,Andhra_Pradesh
+Fishing and aquaculture,2016-17,4353780,Andhra_Pradesh
+Mining and quarrying,2011-12,1416194,Andhra_Pradesh
+Mining and quarrying,2012-13,1459027,Andhra_Pradesh
+Mining and quarrying,2013-14,1419200,Andhra_Pradesh
+Mining and quarrying,2014-15,1484300,Andhra_Pradesh
+Mining and quarrying,2015-16,1633100,Andhra_Pradesh
+Mining and quarrying,2016-17,1757565,Andhra_Pradesh
+Manufacturing,2011-12,5070622,Andhra_Pradesh
+Manufacturing,2012-13,4237657,Andhra_Pradesh
+Manufacturing,2013-14,4242337,Andhra_Pradesh
+Manufacturing,2014-15,4672266,Andhra_Pradesh
+Manufacturing,2015-16,5078685,Andhra_Pradesh
+Manufacturing,2016-17,5740816,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2011-12,1076517,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2012-13,713029,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2013-14,1014130,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2014-15,1151729,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2015-16,1251910,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2016-17,1298947,Andhra_Pradesh
+Construction,2011-12,3702645,Andhra_Pradesh
+Construction,2012-13,3759004,Andhra_Pradesh
+Construction,2013-14,4065131,Andhra_Pradesh
+Construction,2014-15,4664889,Andhra_Pradesh
+Construction,2015-16,4986189,Andhra_Pradesh
+Construction,2016-17,5467732,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2011-12,2673600,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2012-13,3179200,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2013-14,3784900,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2014-15,4233400,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2015-16,4577700,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2016-17,5174600,Andhra_Pradesh
+Trade & repair services,2011-12,2322700,Andhra_Pradesh
+Trade & repair services,2012-13,2775600,Andhra_Pradesh
+Trade & repair services,2013-14,3290800,Andhra_Pradesh
+Trade & repair services,2014-15,3716000,Andhra_Pradesh
+Trade & repair services,2015-16,3964000,Andhra_Pradesh
+Trade & repair services,2016-17,4382200,Andhra_Pradesh
+Hotels & restaurants,2011-12,350900,Andhra_Pradesh
+Hotels & restaurants,2012-13,403600,Andhra_Pradesh
+Hotels & restaurants,2013-14,494100,Andhra_Pradesh
+Hotels & restaurants,2014-15,517400,Andhra_Pradesh
+Hotels & restaurants,2015-16,613700,Andhra_Pradesh
+Hotels & restaurants,2016-17,792400,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2011-12,3251379,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2012-13,3778632,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2013-14,4365811,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2014-15,5076984,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2015-16,5806226,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2016-17,6766317,Andhra_Pradesh
+Railways,2011-12,264279,Andhra_Pradesh
+Railways,2012-13,303702,Andhra_Pradesh
+Railways,2013-14,334468,Andhra_Pradesh
+Railways,2014-15,424228,Andhra_Pradesh
+Railways,2015-16,436596,Andhra_Pradesh
+Railways,2016-17,445372,Andhra_Pradesh
+Road transport,2011-12,1824800,Andhra_Pradesh
+Road transport,2012-13,2200400,Andhra_Pradesh
+Road transport,2013-14,2516200,Andhra_Pradesh
+Road transport,2014-15,2816000,Andhra_Pradesh
+Road transport,2015-16,3217400,Andhra_Pradesh
+Road transport,2016-17,3798300,Andhra_Pradesh
+Water transport,2011-12,95100,Andhra_Pradesh
+Water transport,2012-13,90400,Andhra_Pradesh
+Water transport,2013-14,60600,Andhra_Pradesh
+Water transport,2014-15,94200,Andhra_Pradesh
+Water transport,2015-16,110500,Andhra_Pradesh
+Water transport,2016-17,123600,Andhra_Pradesh
+Air transport,2011-12,4500,Andhra_Pradesh
+Air transport,2012-13,10600,Andhra_Pradesh
+Air transport,2013-14,5100,Andhra_Pradesh
+Air transport,2014-15,14900,Andhra_Pradesh
+Air transport,2015-16,25000,Andhra_Pradesh
+Air transport,2016-17,28000,Andhra_Pradesh
+Services incidental to transport,2011-12,501800,Andhra_Pradesh
+Services incidental to transport,2012-13,535500,Andhra_Pradesh
+Services incidental to transport,2013-14,634700,Andhra_Pradesh
+Services incidental to transport,2014-15,780200,Andhra_Pradesh
+Services incidental to transport,2015-16,904200,Andhra_Pradesh
+Services incidental to transport,2016-17,1020800,Andhra_Pradesh
+Storage,2011-12,20700,Andhra_Pradesh
+Storage,2012-13,16600,Andhra_Pradesh
+Storage,2013-14,18700,Andhra_Pradesh
+Storage,2014-15,18700,Andhra_Pradesh
+Storage,2015-16,19000,Andhra_Pradesh
+Storage,2016-17,20600,Andhra_Pradesh
+Communication & services related to broadcasting,2011-12,540200,Andhra_Pradesh
+Communication & services related to broadcasting,2012-13,621430,Andhra_Pradesh
+Communication & services related to broadcasting,2013-14,796043,Andhra_Pradesh
+Communication & services related to broadcasting,2014-15,928756,Andhra_Pradesh
+Communication & services related to broadcasting,2015-16,1093530,Andhra_Pradesh
+Communication & services related to broadcasting,2016-17,1329645,Andhra_Pradesh
+Financial services,2011-12,1425608,Andhra_Pradesh
+Financial services,2012-13,1584297,Andhra_Pradesh
+Financial services,2013-14,1710463,Andhra_Pradesh
+Financial services,2014-15,1900863,Andhra_Pradesh
+Financial services,2015-16,2125508,Andhra_Pradesh
+Financial services,2016-17,2415390,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2011-12,2833805,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2012-13,3434098,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2013-14,3897345,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2014-15,4405409,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2015-16,5092310,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2016-17,5942431,Andhra_Pradesh
+Public administration,2011-12,1393752,Andhra_Pradesh
+Public administration,2012-13,1552379,Andhra_Pradesh
+Public administration,2013-14,1738971,Andhra_Pradesh
+Public administration,2014-15,2200897,Andhra_Pradesh
+Public administration,2015-16,2594904,Andhra_Pradesh
+Public administration,2016-17,3039676,Andhra_Pradesh
+Other services,2011-12,2730376,Andhra_Pradesh
+Other services,2012-13,3063920,Andhra_Pradesh
+Other services,2013-14,3538298,Andhra_Pradesh
+Other services,2014-15,4215389,Andhra_Pradesh
+Other services,2015-16,5248604,Andhra_Pradesh
+Other services,2016-17,6180240,Andhra_Pradesh
+"Agriculture, forestry and fishing",2011-12,455505,Andhra_Pradesh
+"Agriculture, forestry and fishing",2012-13,545406,Andhra_Pradesh
+"Agriculture, forestry and fishing",2013-14,603944,Andhra_Pradesh
+"Agriculture, forestry and fishing",2014-15,686117,Andhra_Pradesh
+"Agriculture, forestry and fishing",2015-16,744726,Andhra_Pradesh
+Crops,2011-12,255815,Andhra_Pradesh
+Crops,2012-13,331962,Andhra_Pradesh
+Crops,2013-14,360344,Andhra_Pradesh
+Crops,2014-15,415520,Andhra_Pradesh
+Crops,2015-16,431318,Andhra_Pradesh
+Livestock,2011-12,29657,Andhra_Pradesh
+Livestock,2012-13,24249,Andhra_Pradesh
+Livestock,2013-14,34027,Andhra_Pradesh
+Livestock,2014-15,38387,Andhra_Pradesh
+Livestock,2015-16,44386,Andhra_Pradesh
+Forestry and logging,2011-12,165510,Andhra_Pradesh
+Forestry and logging,2012-13,183780,Andhra_Pradesh
+Forestry and logging,2013-14,204038,Andhra_Pradesh
+Forestry and logging,2014-15,224017,Andhra_Pradesh
+Forestry and logging,2015-16,258676,Andhra_Pradesh
+Fishing and aquaculture,2011-12,4523,Andhra_Pradesh
+Fishing and aquaculture,2012-13,5415,Andhra_Pradesh
+Fishing and aquaculture,2013-14,5535,Andhra_Pradesh
+Fishing and aquaculture,2014-15,8193,Andhra_Pradesh
+Fishing and aquaculture,2015-16,10346,Andhra_Pradesh
+Mining and quarrying,2011-12,23022,Andhra_Pradesh
+Mining and quarrying,2012-13,35024,Andhra_Pradesh
+Mining and quarrying,2013-14,43616,Andhra_Pradesh
+Mining and quarrying,2014-15,30842,Andhra_Pradesh
+Mining and quarrying,2015-16,38068,Andhra_Pradesh
+Manufacturing,2011-12,12900,Andhra_Pradesh
+Manufacturing,2012-13,14827,Andhra_Pradesh
+Manufacturing,2013-14,19714,Andhra_Pradesh
+Manufacturing,2014-15,26120,Andhra_Pradesh
+Manufacturing,2015-16,37743,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2011-12,69131,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2012-13,78766,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2013-14,89594,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2014-15,113527,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2015-16,139187,Andhra_Pradesh
+Construction,2011-12,104529,Andhra_Pradesh
+Construction,2012-13,107821,Andhra_Pradesh
+Construction,2013-14,124594,Andhra_Pradesh
+Construction,2014-15,147842,Andhra_Pradesh
+Construction,2015-16,161705,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2011-12,59892,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2012-13,50878,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2013-14,70494,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2014-15,60421,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2015-16,65846,Andhra_Pradesh
+Trade & repair services,2011-12,56921,Andhra_Pradesh
+Trade & repair services,2012-13,47880,Andhra_Pradesh
+Trade & repair services,2013-14,67273,Andhra_Pradesh
+Trade & repair services,2014-15,56796,Andhra_Pradesh
+Trade & repair services,2015-16,62044,Andhra_Pradesh
+Hotels & restaurants,2011-12,2971,Andhra_Pradesh
+Hotels & restaurants,2012-13,2998,Andhra_Pradesh
+Hotels & restaurants,2013-14,3221,Andhra_Pradesh
+Hotels & restaurants,2014-15,3625,Andhra_Pradesh
+Hotels & restaurants,2015-16,3802,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2011-12,23420,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2012-13,27306,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2013-14,33414,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2014-15,35203,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2015-16,42833,Andhra_Pradesh
+Railways,2011-12,30,Andhra_Pradesh
+Railways,2012-13,34,Andhra_Pradesh
+Railways,2013-14,47,Andhra_Pradesh
+Railways,2014-15,59,Andhra_Pradesh
+Railways,2015-16,65,Andhra_Pradesh
+Road transport,2011-12,12382,Andhra_Pradesh
+Road transport,2012-13,13618,Andhra_Pradesh
+Road transport,2013-14,16059,Andhra_Pradesh
+Road transport,2014-15,15467,Andhra_Pradesh
+Road transport,2015-16,20413,Andhra_Pradesh
+Water transport,2011-12,0,Andhra_Pradesh
+Water transport,2012-13,0,Andhra_Pradesh
+Water transport,2013-14,0,Andhra_Pradesh
+Water transport,2014-15,0,Andhra_Pradesh
+Water transport,2015-16,0,Andhra_Pradesh
+Air transport,2011-12,0,Andhra_Pradesh
+Air transport,2012-13,0,Andhra_Pradesh
+Air transport,2013-14,0,Andhra_Pradesh
+Air transport,2014-15,0,Andhra_Pradesh
+Air transport,2015-16,0,Andhra_Pradesh
+Services incidental to transport,2011-12,78,Andhra_Pradesh
+Services incidental to transport,2012-13,89,Andhra_Pradesh
+Services incidental to transport,2013-14,100,Andhra_Pradesh
+Services incidental to transport,2014-15,109,Andhra_Pradesh
+Services incidental to transport,2015-16,121,Andhra_Pradesh
+Storage,2011-12,0,Andhra_Pradesh
+Storage,2012-13,0,Andhra_Pradesh
+Storage,2013-14,0,Andhra_Pradesh
+Storage,2014-15,0,Andhra_Pradesh
+Storage,2015-16,0,Andhra_Pradesh
+Communication & services related to broadcasting,2011-12,10930,Andhra_Pradesh
+Communication & services related to broadcasting,2012-13,13565,Andhra_Pradesh
+Communication & services related to broadcasting,2013-14,17208,Andhra_Pradesh
+Communication & services related to broadcasting,2014-15,19568,Andhra_Pradesh
+Communication & services related to broadcasting,2015-16,22234,Andhra_Pradesh
+Financial services,2011-12,20884,Andhra_Pradesh
+Financial services,2012-13,21562,Andhra_Pradesh
+Financial services,2013-14,23571,Andhra_Pradesh
+Financial services,2014-15,25207,Andhra_Pradesh
+Financial services,2015-16,27548,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2011-12,38261,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2012-13,41869,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2013-14,44949,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2014-15,48418,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2015-16,50432,Andhra_Pradesh
+Public administration,2011-12,135418,Andhra_Pradesh
+Public administration,2012-13,149466,Andhra_Pradesh
+Public administration,2013-14,183105,Andhra_Pradesh
+Public administration,2014-15,243867,Andhra_Pradesh
+Public administration,2015-16,265622,Andhra_Pradesh
+Other services,2011-12,142509,Andhra_Pradesh
+Other services,2012-13,167431,Andhra_Pradesh
+Other services,2013-14,189928,Andhra_Pradesh
+Other services,2014-15,218728,Andhra_Pradesh
+Other services,2015-16,257504,Andhra_Pradesh
+"Agriculture, forestry and fishing",2011-12,2848113,Andhra_Pradesh
+"Agriculture, forestry and fishing",2012-13,3391548,Andhra_Pradesh
+"Agriculture, forestry and fishing",2013-14,3692959,Andhra_Pradesh
+"Agriculture, forestry and fishing",2014-15,3855548,Andhra_Pradesh
+"Agriculture, forestry and fishing",2015-16,4343564,Andhra_Pradesh
+Crops,2011-12,2061487,Andhra_Pradesh
+Crops,2012-13,2496905,Andhra_Pradesh
+Crops,2013-14,2720261,Andhra_Pradesh
+Crops,2014-15,2890544,Andhra_Pradesh
+Crops,2015-16,3310990,Andhra_Pradesh
+Livestock,2011-12,159289,Andhra_Pradesh
+Livestock,2012-13,179160,Andhra_Pradesh
+Livestock,2013-14,155267,Andhra_Pradesh
+Livestock,2014-15,173478,Andhra_Pradesh
+Livestock,2015-16,175526,Andhra_Pradesh
+Forestry and logging,2011-12,231388,Andhra_Pradesh
+Forestry and logging,2012-13,246368,Andhra_Pradesh
+Forestry and logging,2013-14,311458,Andhra_Pradesh
+Forestry and logging,2014-15,261987,Andhra_Pradesh
+Forestry and logging,2015-16,278521,Andhra_Pradesh
+Fishing and aquaculture,2011-12,395949,Andhra_Pradesh
+Fishing and aquaculture,2012-13,469115,Andhra_Pradesh
+Fishing and aquaculture,2013-14,505973,Andhra_Pradesh
+Fishing and aquaculture,2014-15,529539,Andhra_Pradesh
+Fishing and aquaculture,2015-16,578527,Andhra_Pradesh
+Mining and quarrying,2011-12,1464989,Andhra_Pradesh
+Mining and quarrying,2012-13,1448306,Andhra_Pradesh
+Mining and quarrying,2013-14,1423477,Andhra_Pradesh
+Mining and quarrying,2014-15,1471149,Andhra_Pradesh
+Mining and quarrying,2015-16,1493456,Andhra_Pradesh
+Manufacturing,2011-12,1540255,Andhra_Pradesh
+Manufacturing,2012-13,1531538,Andhra_Pradesh
+Manufacturing,2013-14,1904299,Andhra_Pradesh
+Manufacturing,2014-15,2002936,Andhra_Pradesh
+Manufacturing,2015-16,2055341,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2011-12,191883,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2012-13,210901,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2013-14,257083,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2014-15,296587,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2015-16,372236,Andhra_Pradesh
+Construction,2011-12,1188747,Andhra_Pradesh
+Construction,2012-13,1270304,Andhra_Pradesh
+Construction,2013-14,1537481,Andhra_Pradesh
+Construction,2014-15,1733568,Andhra_Pradesh
+Construction,2015-16,2093594,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2011-12,2045676,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2012-13,2284041,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2013-14,2573962,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2014-15,2987155,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2015-16,3480621,Andhra_Pradesh
+Trade & repair services,2011-12,1961211,Andhra_Pradesh
+Trade & repair services,2012-13,2191727,Andhra_Pradesh
+Trade & repair services,2013-14,2473790,Andhra_Pradesh
+Trade & repair services,2014-15,2876251,Andhra_Pradesh
+Trade & repair services,2015-16,3353852,Andhra_Pradesh
+Hotels & restaurants,2011-12,84465,Andhra_Pradesh
+Hotels & restaurants,2012-13,92314,Andhra_Pradesh
+Hotels & restaurants,2013-14,100172,Andhra_Pradesh
+Hotels & restaurants,2014-15,110904,Andhra_Pradesh
+Hotels & restaurants,2015-16,126769,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2011-12,810091,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2012-13,929196,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2013-14,1086729,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2014-15,1194568,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2015-16,1392834,Andhra_Pradesh
+Railways,2011-12,158334,Andhra_Pradesh
+Railways,2012-13,186316,Andhra_Pradesh
+Railways,2013-14,215234,Andhra_Pradesh
+Railways,2014-15,252509,Andhra_Pradesh
+Railways,2015-16,294682,Andhra_Pradesh
+Road transport,2011-12,356262,Andhra_Pradesh
+Road transport,2012-13,422930,Andhra_Pradesh
+Road transport,2013-14,474743,Andhra_Pradesh
+Road transport,2014-15,507668,Andhra_Pradesh
+Road transport,2015-16,579295,Andhra_Pradesh
+Water transport,2011-12,43626,Andhra_Pradesh
+Water transport,2012-13,47129,Andhra_Pradesh
+Water transport,2013-14,25033,Andhra_Pradesh
+Water transport,2014-15,4502,Andhra_Pradesh
+Water transport,2015-16,5023,Andhra_Pradesh
+Air transport,2011-12,0,Andhra_Pradesh
+Air transport,2012-13,255,Andhra_Pradesh
+Air transport,2013-14,9711,Andhra_Pradesh
+Air transport,2014-15,26223,Andhra_Pradesh
+Air transport,2015-16,29260,Andhra_Pradesh
+Services incidental to transport,2011-12,36400,Andhra_Pradesh
+Services incidental to transport,2012-13,39855,Andhra_Pradesh
+Services incidental to transport,2013-14,36798,Andhra_Pradesh
+Services incidental to transport,2014-15,35739,Andhra_Pradesh
+Services incidental to transport,2015-16,37732,Andhra_Pradesh
+Storage,2011-12,6594,Andhra_Pradesh
+Storage,2012-13,7277,Andhra_Pradesh
+Storage,2013-14,8377,Andhra_Pradesh
+Storage,2014-15,10308,Andhra_Pradesh
+Storage,2015-16,12070,Andhra_Pradesh
+Communication & services related to broadcasting,2011-12,208875,Andhra_Pradesh
+Communication & services related to broadcasting,2012-13,225434,Andhra_Pradesh
+Communication & services related to broadcasting,2013-14,316833,Andhra_Pradesh
+Communication & services related to broadcasting,2014-15,357619,Andhra_Pradesh
+Communication & services related to broadcasting,2015-16,434772,Andhra_Pradesh
+Financial services,2011-12,427077,Andhra_Pradesh
+Financial services,2012-13,457213,Andhra_Pradesh
+Financial services,2013-14,515905,Andhra_Pradesh
+Financial services,2014-15,543651,Andhra_Pradesh
+Financial services,2015-16,591575,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2011-12,1112543,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2012-13,1225917,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2013-14,1316472,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2014-15,1412466,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2015-16,1534435,Andhra_Pradesh
+Public administration,2011-12,821723,Andhra_Pradesh
+Public administration,2012-13,929477,Andhra_Pradesh
+Public administration,2013-14,982734,Andhra_Pradesh
+Public administration,2014-15,1373611,Andhra_Pradesh
+Public administration,2015-16,1556575,Andhra_Pradesh
+Other services,2011-12,1077923,Andhra_Pradesh
+Other services,2012-13,1182533,Andhra_Pradesh
+Other services,2013-14,1493924,Andhra_Pradesh
+Other services,2014-15,1795658,Andhra_Pradesh
+Other services,2015-16,2209442,Andhra_Pradesh
+"Agriculture, forestry and fishing",2011-12,6206655,Andhra_Pradesh
+"Agriculture, forestry and fishing",2012-13,7669989,Andhra_Pradesh
+"Agriculture, forestry and fishing",2013-14,7371939,Andhra_Pradesh
+"Agriculture, forestry and fishing",2014-15,7951890,Andhra_Pradesh
+"Agriculture, forestry and fishing",2015-16,8095024,Andhra_Pradesh
+Crops,2011-12,4260778,Andhra_Pradesh
+Crops,2012-13,5336544,Andhra_Pradesh
+Crops,2013-14,4522339,Andhra_Pradesh
+Crops,2014-15,4688237,Andhra_Pradesh
+Crops,2015-16,4577220,Andhra_Pradesh
+Livestock,2011-12,1202821,Andhra_Pradesh
+Livestock,2012-13,1481102,Andhra_Pradesh
+Livestock,2013-14,1831596,Andhra_Pradesh
+Livestock,2014-15,2060296,Andhra_Pradesh
+Livestock,2015-16,2247038,Andhra_Pradesh
+Forestry and logging,2011-12,418682,Andhra_Pradesh
+Forestry and logging,2012-13,457077,Andhra_Pradesh
+Forestry and logging,2013-14,500976,Andhra_Pradesh
+Forestry and logging,2014-15,550132,Andhra_Pradesh
+Forestry and logging,2015-16,591042,Andhra_Pradesh
+Fishing and aquaculture,2011-12,324374,Andhra_Pradesh
+Fishing and aquaculture,2012-13,395266,Andhra_Pradesh
+Fishing and aquaculture,2013-14,517028,Andhra_Pradesh
+Fishing and aquaculture,2014-15,653224,Andhra_Pradesh
+Fishing and aquaculture,2015-16,679725,Andhra_Pradesh
+Mining and quarrying,2011-12,19858,Andhra_Pradesh
+Mining and quarrying,2012-13,23429,Andhra_Pradesh
+Mining and quarrying,2013-14,150804,Andhra_Pradesh
+Mining and quarrying,2014-15,68107,Andhra_Pradesh
+Mining and quarrying,2015-16,68549,Andhra_Pradesh
+Manufacturing,2011-12,1466570,Andhra_Pradesh
+Manufacturing,2012-13,1035092,Andhra_Pradesh
+Manufacturing,2013-14,2120942,Andhra_Pradesh
+Manufacturing,2014-15,2189965,Andhra_Pradesh
+Manufacturing,2015-16,2892956,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2011-12,365887,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2012-13,442206,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2013-14,385931,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2014-15,345168,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2015-16,363130,Andhra_Pradesh
+Construction,2011-12,2701685,Andhra_Pradesh
+Construction,2012-13,2781005,Andhra_Pradesh
+Construction,2013-14,3184760,Andhra_Pradesh
+Construction,2014-15,3449763,Andhra_Pradesh
+Construction,2015-16,3667664,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2011-12,4390442,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2012-13,5175534,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2013-14,5205102,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2014-15,7448373,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2015-16,8789191,Andhra_Pradesh
+Trade & repair services,2011-12,4110861,Andhra_Pradesh
+Trade & repair services,2012-13,4867227,Andhra_Pradesh
+Trade & repair services,2013-14,4873547,Andhra_Pradesh
+Trade & repair services,2014-15,7081391,Andhra_Pradesh
+Trade & repair services,2015-16,8383018,Andhra_Pradesh
+Hotels & restaurants,2011-12,279581,Andhra_Pradesh
+Hotels & restaurants,2012-13,308307,Andhra_Pradesh
+Hotels & restaurants,2013-14,331555,Andhra_Pradesh
+Hotels & restaurants,2014-15,366982,Andhra_Pradesh
+Hotels & restaurants,2015-16,406173,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2011-12,1754480,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2012-13,2161629,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2013-14,2684993,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2014-15,3147173,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2015-16,3658194,Andhra_Pradesh
+Railways,2011-12,275142,Andhra_Pradesh
+Railways,2012-13,334829,Andhra_Pradesh
+Railways,2013-14,395681,Andhra_Pradesh
+Railways,2014-15,462413,Andhra_Pradesh
+Railways,2015-16,540400,Andhra_Pradesh
+Road transport,2011-12,840472,Andhra_Pradesh
+Road transport,2012-13,1069740,Andhra_Pradesh
+Road transport,2013-14,1347912,Andhra_Pradesh
+Road transport,2014-15,1572288,Andhra_Pradesh
+Road transport,2015-16,1833696,Andhra_Pradesh
+Water transport,2011-12,4895,Andhra_Pradesh
+Water transport,2012-13,2559,Andhra_Pradesh
+Water transport,2013-14,1728,Andhra_Pradesh
+Water transport,2014-15,2228,Andhra_Pradesh
+Water transport,2015-16,2228,Andhra_Pradesh
+Air transport,2011-12,3079,Andhra_Pradesh
+Air transport,2012-13,5848,Andhra_Pradesh
+Air transport,2013-14,4557,Andhra_Pradesh
+Air transport,2014-15,13599,Andhra_Pradesh
+Air transport,2015-16,13599,Andhra_Pradesh
+Services incidental to transport,2011-12,89270,Andhra_Pradesh
+Services incidental to transport,2012-13,112022,Andhra_Pradesh
+Services incidental to transport,2013-14,142482,Andhra_Pradesh
+Services incidental to transport,2014-15,166600,Andhra_Pradesh
+Services incidental to transport,2015-16,194712,Andhra_Pradesh
+Storage,2011-12,7400,Andhra_Pradesh
+Storage,2012-13,8434,Andhra_Pradesh
+Storage,2013-14,8457,Andhra_Pradesh
+Storage,2014-15,10618,Andhra_Pradesh
+Storage,2015-16,10618,Andhra_Pradesh
+Communication & services related to broadcasting,2011-12,534222,Andhra_Pradesh
+Communication & services related to broadcasting,2012-13,628197,Andhra_Pradesh
+Communication & services related to broadcasting,2013-14,784175,Andhra_Pradesh
+Communication & services related to broadcasting,2014-15,919427,Andhra_Pradesh
+Communication & services related to broadcasting,2015-16,1062941,Andhra_Pradesh
+Financial services,2011-12,883932,Andhra_Pradesh
+Financial services,2012-13,977417,Andhra_Pradesh
+Financial services,2013-14,1122273,Andhra_Pradesh
+Financial services,2014-15,1178022,Andhra_Pradesh
+Financial services,2015-16,1236540,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2011-12,2802336,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2012-13,3121656,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2013-14,3460385,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2014-15,3740641,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2015-16,4081952,Andhra_Pradesh
+Public administration,2011-12,1358743,Andhra_Pradesh
+Public administration,2012-13,1477676,Andhra_Pradesh
+Public administration,2013-14,1576835,Andhra_Pradesh
+Public administration,2014-15,2078171,Andhra_Pradesh
+Public administration,2015-16,2129474,Andhra_Pradesh
+Other services,2011-12,2219262,Andhra_Pradesh
+Other services,2012-13,2804281,Andhra_Pradesh
+Other services,2013-14,3404578,Andhra_Pradesh
+Other services,2014-15,4587589,Andhra_Pradesh
+Other services,2015-16,4845291,Andhra_Pradesh
+"Agriculture, forestry and fishing",2011-12,2685950,Andhra_Pradesh
+"Agriculture, forestry and fishing",2012-13,3180908,Andhra_Pradesh
+"Agriculture, forestry and fishing",2013-14,3589934,Andhra_Pradesh
+"Agriculture, forestry and fishing",2014-15,3948847,Andhra_Pradesh
+"Agriculture, forestry and fishing",2015-16,4341869,Andhra_Pradesh
+"Agriculture, forestry and fishing",2016-17,4852218,Andhra_Pradesh
+Crops,2011-12,1798258,Andhra_Pradesh
+Crops,2012-13,2140927,Andhra_Pradesh
+Crops,2013-14,2395705,Andhra_Pradesh
+Crops,2014-15,2613371,Andhra_Pradesh
+Crops,2015-16,2829924,Andhra_Pradesh
+Crops,2016-17,3132527,Andhra_Pradesh
+Livestock,2011-12,226704,Andhra_Pradesh
+Livestock,2012-13,255035,Andhra_Pradesh
+Livestock,2013-14,310931,Andhra_Pradesh
+Livestock,2014-15,352208,Andhra_Pradesh
+Livestock,2015-16,412501,Andhra_Pradesh
+Livestock,2016-17,467223,Andhra_Pradesh
+Forestry and logging,2011-12,426205,Andhra_Pradesh
+Forestry and logging,2012-13,503309,Andhra_Pradesh
+Forestry and logging,2013-14,559637,Andhra_Pradesh
+Forestry and logging,2014-15,597785,Andhra_Pradesh
+Forestry and logging,2015-16,672022,Andhra_Pradesh
+Forestry and logging,2016-17,778945,Andhra_Pradesh
+Fishing and aquaculture,2011-12,234783,Andhra_Pradesh
+Fishing and aquaculture,2012-13,281637,Andhra_Pradesh
+Fishing and aquaculture,2013-14,323661,Andhra_Pradesh
+Fishing and aquaculture,2014-15,385483,Andhra_Pradesh
+Fishing and aquaculture,2015-16,427422,Andhra_Pradesh
+Fishing and aquaculture,2016-17,473523,Andhra_Pradesh
+Mining and quarrying,2011-12,1970258,Andhra_Pradesh
+Mining and quarrying,2012-13,1923021,Andhra_Pradesh
+Mining and quarrying,2013-14,2144358,Andhra_Pradesh
+Mining and quarrying,2014-15,2451970,Andhra_Pradesh
+Mining and quarrying,2015-16,2365874,Andhra_Pradesh
+Mining and quarrying,2016-17,2482291,Andhra_Pradesh
+Manufacturing,2011-12,2435032,Andhra_Pradesh
+Manufacturing,2012-13,2817915,Andhra_Pradesh
+Manufacturing,2013-14,3810105,Andhra_Pradesh
+Manufacturing,2014-15,4370593,Andhra_Pradesh
+Manufacturing,2015-16,4925000,Andhra_Pradesh
+Manufacturing,2016-17,5403213,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2011-12,709991,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2012-13,970686,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2013-14,1051772,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2014-15,1198438,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2015-16,1351026,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2016-17,1461841,Andhra_Pradesh
+Construction,2011-12,1901330,Andhra_Pradesh
+Construction,2012-13,1920771,Andhra_Pradesh
+Construction,2013-14,2260022,Andhra_Pradesh
+Construction,2014-15,2669855,Andhra_Pradesh
+Construction,2015-16,3016954,Andhra_Pradesh
+Construction,2016-17,3391547,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2011-12,932617,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2012-13,1101271,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2013-14,1288982,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2014-15,1535571,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2015-16,1782734,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2016-17,1979656,Andhra_Pradesh
+Trade & repair services,2011-12,847597,Andhra_Pradesh
+Trade & repair services,2012-13,1011450,Andhra_Pradesh
+Trade & repair services,2013-14,1178419,Andhra_Pradesh
+Trade & repair services,2014-15,1414164,Andhra_Pradesh
+Trade & repair services,2015-16,1666029,Andhra_Pradesh
+Trade & repair services,2016-17,1838297,Andhra_Pradesh
+Hotels & restaurants,2011-12,85020,Andhra_Pradesh
+Hotels & restaurants,2012-13,89821,Andhra_Pradesh
+Hotels & restaurants,2013-14,110563,Andhra_Pradesh
+Hotels & restaurants,2014-15,121407,Andhra_Pradesh
+Hotels & restaurants,2015-16,116706,Andhra_Pradesh
+Hotels & restaurants,2016-17,141359,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2011-12,583708,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2012-13,683320,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2013-14,783315,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2014-15,871770,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2015-16,1003151,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2016-17,1165466,Andhra_Pradesh
+Railways,2011-12,121509,Andhra_Pradesh
+Railways,2012-13,140418,Andhra_Pradesh
+Railways,2013-14,150098,Andhra_Pradesh
+Railways,2014-15,159176,Andhra_Pradesh
+Railways,2015-16,173471,Andhra_Pradesh
+Railways,2016-17,186151,Andhra_Pradesh
+Road transport,2011-12,275736,Andhra_Pradesh
+Road transport,2012-13,320533,Andhra_Pradesh
+Road transport,2013-14,357128,Andhra_Pradesh
+Road transport,2014-15,386628,Andhra_Pradesh
+Road transport,2015-16,443855,Andhra_Pradesh
+Road transport,2016-17,516676,Andhra_Pradesh
+Water transport,2011-12,0,Andhra_Pradesh
+Water transport,2012-13,0,Andhra_Pradesh
+Water transport,2013-14,0,Andhra_Pradesh
+Water transport,2014-15,0,Andhra_Pradesh
+Water transport,2015-16,0,Andhra_Pradesh
+Water transport,2016-17,0,Andhra_Pradesh
+Air transport,2011-12,2217,Andhra_Pradesh
+Air transport,2012-13,4215,Andhra_Pradesh
+Air transport,2013-14,3337,Andhra_Pradesh
+Air transport,2014-15,9507,Andhra_Pradesh
+Air transport,2015-16,9842,Andhra_Pradesh
+Air transport,2016-17,11038,Andhra_Pradesh
+Services incidental to transport,2011-12,3756,Andhra_Pradesh
+Services incidental to transport,2012-13,4347,Andhra_Pradesh
+Services incidental to transport,2013-14,4818,Andhra_Pradesh
+Services incidental to transport,2014-15,5232,Andhra_Pradesh
+Services incidental to transport,2015-16,5680,Andhra_Pradesh
+Services incidental to transport,2016-17,6084,Andhra_Pradesh
+Storage,2011-12,10189,Andhra_Pradesh
+Storage,2012-13,11689,Andhra_Pradesh
+Storage,2013-14,14026,Andhra_Pradesh
+Storage,2014-15,16675,Andhra_Pradesh
+Storage,2015-16,19415,Andhra_Pradesh
+Storage,2016-17,22675,Andhra_Pradesh
+Communication & services related to broadcasting,2011-12,170301,Andhra_Pradesh
+Communication & services related to broadcasting,2012-13,202117,Andhra_Pradesh
+Communication & services related to broadcasting,2013-14,253906,Andhra_Pradesh
+Communication & services related to broadcasting,2014-15,294552,Andhra_Pradesh
+Communication & services related to broadcasting,2015-16,350888,Andhra_Pradesh
+Communication & services related to broadcasting,2016-17,422842,Andhra_Pradesh
+Financial services,2011-12,537699,Andhra_Pradesh
+Financial services,2012-13,609344,Andhra_Pradesh
+Financial services,2013-14,676094,Andhra_Pradesh
+Financial services,2014-15,739057,Andhra_Pradesh
+Financial services,2015-16,813950,Andhra_Pradesh
+Financial services,2016-17,903006,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2011-12,1755211,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2012-13,1919629,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2013-14,2227586,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2014-15,2462166,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2015-16,2749303,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2016-17,3034840,Andhra_Pradesh
+Public administration,2011-12,549383,Andhra_Pradesh
+Public administration,2012-13,611344,Andhra_Pradesh
+Public administration,2013-14,781483,Andhra_Pradesh
+Public administration,2014-15,867982,Andhra_Pradesh
+Public administration,2015-16,1028511,Andhra_Pradesh
+Public administration,2016-17,1274761,Andhra_Pradesh
+Other services,2011-12,781803,Andhra_Pradesh
+Other services,2012-13,875123,Andhra_Pradesh
+Other services,2013-14,914758,Andhra_Pradesh
+Other services,2014-15,1112232,Andhra_Pradesh
+Other services,2015-16,1320891,Andhra_Pradesh
+Other services,2016-17,1616648,Andhra_Pradesh
+"Agriculture, forestry and fishing",2011-12,204298,Andhra_Pradesh
+"Agriculture, forestry and fishing",2012-13,228626,Andhra_Pradesh
+"Agriculture, forestry and fishing",2013-14,311711,Andhra_Pradesh
+"Agriculture, forestry and fishing",2014-15,308507,Andhra_Pradesh
+"Agriculture, forestry and fishing",2015-16,366186,Andhra_Pradesh
+Crops,2011-12,102417,Andhra_Pradesh
+Crops,2012-13,108207,Andhra_Pradesh
+Crops,2013-14,126747,Andhra_Pradesh
+Crops,2014-15,140421,Andhra_Pradesh
+Crops,2015-16,159400,Andhra_Pradesh
+Livestock,2011-12,23530,Andhra_Pradesh
+Livestock,2012-13,26599,Andhra_Pradesh
+Livestock,2013-14,31237,Andhra_Pradesh
+Livestock,2014-15,30141,Andhra_Pradesh
+Livestock,2015-16,43088,Andhra_Pradesh
+Forestry and logging,2011-12,11797,Andhra_Pradesh
+Forestry and logging,2012-13,12522,Andhra_Pradesh
+Forestry and logging,2013-14,13051,Andhra_Pradesh
+Forestry and logging,2014-15,15744,Andhra_Pradesh
+Forestry and logging,2015-16,19880,Andhra_Pradesh
+Fishing and aquaculture,2011-12,66554,Andhra_Pradesh
+Fishing and aquaculture,2012-13,81298,Andhra_Pradesh
+Fishing and aquaculture,2013-14,140676,Andhra_Pradesh
+Fishing and aquaculture,2014-15,122201,Andhra_Pradesh
+Fishing and aquaculture,2015-16,143819,Andhra_Pradesh
+Mining and quarrying,2011-12,643618,Andhra_Pradesh
+Mining and quarrying,2012-13,208663,Andhra_Pradesh
+Mining and quarrying,2013-14,3977,Andhra_Pradesh
+Mining and quarrying,2014-15,3622,Andhra_Pradesh
+Mining and quarrying,2015-16,3678,Andhra_Pradesh
+Manufacturing,2011-12,1629346,Andhra_Pradesh
+Manufacturing,2012-13,1453493,Andhra_Pradesh
+Manufacturing,2013-14,1091757,Andhra_Pradesh
+Manufacturing,2014-15,1177608,Andhra_Pradesh
+Manufacturing,2015-16,1285215,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2011-12,95883,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2012-13,116876,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2013-14,157732,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2014-15,204110,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2015-16,274414,Andhra_Pradesh
+Construction,2011-12,135801,Andhra_Pradesh
+Construction,2012-13,140399,Andhra_Pradesh
+Construction,2013-14,161627,Andhra_Pradesh
+Construction,2014-15,165819,Andhra_Pradesh
+Construction,2015-16,175281,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2011-12,259615,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2012-13,259610,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2013-14,284357,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2014-15,380927,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2015-16,470977,Andhra_Pradesh
+Trade & repair services,2011-12,231790,Andhra_Pradesh
+Trade & repair services,2012-13,229719,Andhra_Pradesh
+Trade & repair services,2013-14,251701,Andhra_Pradesh
+Trade & repair services,2014-15,343492,Andhra_Pradesh
+Trade & repair services,2015-16,427674,Andhra_Pradesh
+Hotels & restaurants,2011-12,27825,Andhra_Pradesh
+Hotels & restaurants,2012-13,29891,Andhra_Pradesh
+Hotels & restaurants,2013-14,32656,Andhra_Pradesh
+Hotels & restaurants,2014-15,37434,Andhra_Pradesh
+Hotels & restaurants,2015-16,43303,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2011-12,155964,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2012-13,141372,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2013-14,135168,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2014-15,189656,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2015-16,186023,Andhra_Pradesh
+Railways,2011-12,12158,Andhra_Pradesh
+Railways,2012-13,13498,Andhra_Pradesh
+Railways,2013-14,13559,Andhra_Pradesh
+Railways,2014-15,15649,Andhra_Pradesh
+Railways,2015-16,18061,Andhra_Pradesh
+Road transport,2011-12,34683,Andhra_Pradesh
+Road transport,2012-13,38841,Andhra_Pradesh
+Road transport,2013-14,42533,Andhra_Pradesh
+Road transport,2014-15,46171,Andhra_Pradesh
+Road transport,2015-16,48971,Andhra_Pradesh
+Water transport,2011-12,42442,Andhra_Pradesh
+Water transport,2012-13,22267,Andhra_Pradesh
+Water transport,2013-14,12790,Andhra_Pradesh
+Water transport,2014-15,17820,Andhra_Pradesh
+Water transport,2015-16,20561,Andhra_Pradesh
+Air transport,2011-12,9731,Andhra_Pradesh
+Air transport,2012-13,18426,Andhra_Pradesh
+Air transport,2013-14,15901,Andhra_Pradesh
+Air transport,2014-15,46359,Andhra_Pradesh
+Air transport,2015-16,15904,Andhra_Pradesh
+Services incidental to transport,2011-12,29654,Andhra_Pradesh
+Services incidental to transport,2012-13,18371,Andhra_Pradesh
+Services incidental to transport,2013-14,12158,Andhra_Pradesh
+Services incidental to transport,2014-15,19272,Andhra_Pradesh
+Services incidental to transport,2015-16,30779,Andhra_Pradesh
+Storage,2011-12,192,Andhra_Pradesh
+Storage,2012-13,253,Andhra_Pradesh
+Storage,2013-14,306,Andhra_Pradesh
+Storage,2014-15,357,Andhra_Pradesh
+Storage,2015-16,416,Andhra_Pradesh
+Communication & services related to broadcasting,2011-12,27105,Andhra_Pradesh
+Communication & services related to broadcasting,2012-13,29716,Andhra_Pradesh
+Communication & services related to broadcasting,2013-14,37921,Andhra_Pradesh
+Communication & services related to broadcasting,2014-15,44028,Andhra_Pradesh
+Communication & services related to broadcasting,2015-16,51330,Andhra_Pradesh
+Financial services,2011-12,172930,Andhra_Pradesh
+Financial services,2012-13,205807,Andhra_Pradesh
+Financial services,2013-14,219431,Andhra_Pradesh
+Financial services,2014-15,233618,Andhra_Pradesh
+Financial services,2015-16,248722,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2011-12,268681,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2012-13,311294,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2013-14,353295,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2014-15,407099,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2015-16,471567,Andhra_Pradesh
+Public administration,2011-12,250476,Andhra_Pradesh
+Public administration,2012-13,279612,Andhra_Pradesh
+Public administration,2013-14,319424,Andhra_Pradesh
+Public administration,2014-15,346486,Andhra_Pradesh
+Public administration,2015-16,376530,Andhra_Pradesh
+Other services,2011-12,123955,Andhra_Pradesh
+Other services,2012-13,141551,Andhra_Pradesh
+Other services,2013-14,163883,Andhra_Pradesh
+Other services,2014-15,180431,Andhra_Pradesh
+Other services,2015-16,200606,Andhra_Pradesh
+"Agriculture, forestry and fishing",2011-12,10736422,Andhra_Pradesh
+"Agriculture, forestry and fishing",2012-13,9917095,Andhra_Pradesh
+"Agriculture, forestry and fishing",2013-14,13040117,Andhra_Pradesh
+"Agriculture, forestry and fishing",2014-15,13769969,Andhra_Pradesh
+"Agriculture, forestry and fishing",2015-16,14233763,Andhra_Pradesh
+Crops,2011-12,7950972,Andhra_Pradesh
+Crops,2012-13,6767738,Andhra_Pradesh
+Crops,2013-14,9556409,Andhra_Pradesh
+Crops,2014-15,9671086,Andhra_Pradesh
+Crops,2015-16,9516349,Andhra_Pradesh
+Livestock,2011-12,1850549,Andhra_Pradesh
+Livestock,2012-13,2011439,Andhra_Pradesh
+Livestock,2013-14,2316038,Andhra_Pradesh
+Livestock,2014-15,2698910,Andhra_Pradesh
+Livestock,2015-16,3164273,Andhra_Pradesh
+Forestry and logging,2011-12,611318,Andhra_Pradesh
+Forestry and logging,2012-13,770303,Andhra_Pradesh
+Forestry and logging,2013-14,715171,Andhra_Pradesh
+Forestry and logging,2014-15,761616,Andhra_Pradesh
+Forestry and logging,2015-16,858369,Andhra_Pradesh
+Fishing and aquaculture,2011-12,323584,Andhra_Pradesh
+Fishing and aquaculture,2012-13,367616,Andhra_Pradesh
+Fishing and aquaculture,2013-14,452499,Andhra_Pradesh
+Fishing and aquaculture,2014-15,638357,Andhra_Pradesh
+Fishing and aquaculture,2015-16,694772,Andhra_Pradesh
+Mining and quarrying,2011-12,1850611,Andhra_Pradesh
+Mining and quarrying,2012-13,2315728,Andhra_Pradesh
+Mining and quarrying,2013-14,2026283,Andhra_Pradesh
+Mining and quarrying,2014-15,2117218,Andhra_Pradesh
+Mining and quarrying,2015-16,2276009,Andhra_Pradesh
+Manufacturing,2011-12,15681931,Andhra_Pradesh
+Manufacturing,2012-13,20692579,Andhra_Pradesh
+Manufacturing,2013-14,21997752,Andhra_Pradesh
+Manufacturing,2014-15,24087538,Andhra_Pradesh
+Manufacturing,2015-16,26640817,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2011-12,2190546,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2012-13,2679262,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2013-14,2890694,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2014-15,3409983,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2015-16,3812361,Andhra_Pradesh
+Construction,2011-12,4469267,Andhra_Pradesh
+Construction,2012-13,4702959,Andhra_Pradesh
+Construction,2013-14,5352370,Andhra_Pradesh
+Construction,2014-15,5526017,Andhra_Pradesh
+Construction,2015-16,5968098,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2011-12,6646396,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2012-13,8457461,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2013-14,8991796,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2014-15,10178713,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2015-16,10697827,Andhra_Pradesh
+Trade & repair services,2011-12,6646396,Andhra_Pradesh
+Trade & repair services,2012-13,8457461,Andhra_Pradesh
+Trade & repair services,2013-14,8991796,Andhra_Pradesh
+Trade & repair services,2014-15,10178713,Andhra_Pradesh
+Trade & repair services,2015-16,10697827,Andhra_Pradesh
+Hotels & restaurants,2011-12,NA,Andhra_Pradesh
+Hotels & restaurants,2012-13,NA,Andhra_Pradesh
+Hotels & restaurants,2013-14,NA,Andhra_Pradesh
+Hotels & restaurants,2014-15,NA,Andhra_Pradesh
+Hotels & restaurants,2015-16,NA,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2011-12,3253230,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2012-13,3715274,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2013-14,4015345,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2014-15,4555910,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2015-16,5105238,Andhra_Pradesh
+Railways,2011-12,328792,Andhra_Pradesh
+Railways,2012-13,363157,Andhra_Pradesh
+Railways,2013-14,384751,Andhra_Pradesh
+Railways,2014-15,511593,Andhra_Pradesh
+Railways,2015-16,596006,Andhra_Pradesh
+Road transport,2011-12,NA,Andhra_Pradesh
+Road transport,2012-13,NA,Andhra_Pradesh
+Road transport,2013-14,NA,Andhra_Pradesh
+Road transport,2014-15,NA,Andhra_Pradesh
+Road transport,2015-16,NA,Andhra_Pradesh
+Water transport,2011-12,NA,Andhra_Pradesh
+Water transport,2012-13,NA,Andhra_Pradesh
+Water transport,2013-14,NA,Andhra_Pradesh
+Water transport,2014-15,NA,Andhra_Pradesh
+Water transport,2015-16,NA,Andhra_Pradesh
+Air transport,2011-12,NA,Andhra_Pradesh
+Air transport,2012-13,NA,Andhra_Pradesh
+Air transport,2013-14,NA,Andhra_Pradesh
+Air transport,2014-15,NA,Andhra_Pradesh
+Air transport,2015-16,NA,Andhra_Pradesh
+Services incidental to transport*,2011-12,2126306,Andhra_Pradesh
+Services incidental to transport*,2012-13,2434819,Andhra_Pradesh
+Services incidental to transport*,2013-14,2485294,Andhra_Pradesh
+Services incidental to transport*,2014-15,2744163,Andhra_Pradesh
+Services incidental to transport*,2015-16,3051509,Andhra_Pradesh
+Storage,2011-12,36202,Andhra_Pradesh
+Storage,2012-13,40557,Andhra_Pradesh
+Storage,2013-14,46042,Andhra_Pradesh
+Storage,2014-15,57634,Andhra_Pradesh
+Storage,2015-16,66101,Andhra_Pradesh
+Communication & services related to broadcasting,2011-12,761929,Andhra_Pradesh
+Communication & services related to broadcasting,2012-13,876741,Andhra_Pradesh
+Communication & services related to broadcasting,2013-14,1099258,Andhra_Pradesh
+Communication & services related to broadcasting,2014-15,1242520,Andhra_Pradesh
+Communication & services related to broadcasting,2015-16,1391622,Andhra_Pradesh
+Financial services,2011-12,2942743,Andhra_Pradesh
+Financial services,2012-13,3461652,Andhra_Pradesh
+Financial services,2013-14,4116751,Andhra_Pradesh
+Financial services,2014-15,4606644,Andhra_Pradesh
+Financial services,2015-16,5210114,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2011-12,3481417,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2012-13,3969395,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2013-14,4564674,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2014-15,5179502,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2015-16,5916201,Andhra_Pradesh
+Public administration,2011-12,1917276,Andhra_Pradesh
+Public administration,2012-13,2184966,Andhra_Pradesh
+Public administration,2013-14,2373071,Andhra_Pradesh
+Public administration,2014-15,2576195,Andhra_Pradesh
+Public administration,2015-16,2887915,Andhra_Pradesh
+Other services,2011-12,2022268,Andhra_Pradesh
+Other services,2012-13,2419178,Andhra_Pradesh
+Other services,2013-14,2739442,Andhra_Pradesh
+Other services,2014-15,3123413,Andhra_Pradesh
+Other services,2015-16,3628248,Andhra_Pradesh
+"Agriculture, forestry and fishing",2011-12,6453886,Andhra_Pradesh
+"Agriculture, forestry and fishing",2012-13,7150666,Andhra_Pradesh
+"Agriculture, forestry and fishing",2013-14,7929914,Andhra_Pradesh
+"Agriculture, forestry and fishing",2014-15,8015238,Andhra_Pradesh
+"Agriculture, forestry and fishing",2015-16,8396709,Andhra_Pradesh
+"Agriculture, forestry and fishing",2016-17,9466087,Andhra_Pradesh
+Crops,2011-12,4088737,Andhra_Pradesh
+Crops,2012-13,4457601,Andhra_Pradesh
+Crops,2013-14,4951547,Andhra_Pradesh
+Crops,2014-15,4636731,Andhra_Pradesh
+Crops,2015-16,4727367,Andhra_Pradesh
+Crops,2016-17,5469577,Andhra_Pradesh
+Livestock,2011-12,1889817,Andhra_Pradesh
+Livestock,2012-13,2160183,Andhra_Pradesh
+Livestock,2013-14,2483010,Andhra_Pradesh
+Livestock,2014-15,2916173,Andhra_Pradesh
+Livestock,2015-16,3225085,Andhra_Pradesh
+Livestock,2016-17,3524563,Andhra_Pradesh
+Forestry and logging,2011-12,389490,Andhra_Pradesh
+Forestry and logging,2012-13,432560,Andhra_Pradesh
+Forestry and logging,2013-14,400345,Andhra_Pradesh
+Forestry and logging,2014-15,352254,Andhra_Pradesh
+Forestry and logging,2015-16,356483,Andhra_Pradesh
+Forestry and logging,2016-17,347491,Andhra_Pradesh
+Fishing and aquaculture,2011-12,85843,Andhra_Pradesh
+Fishing and aquaculture,2012-13,100322,Andhra_Pradesh
+Fishing and aquaculture,2013-14,95012,Andhra_Pradesh
+Fishing and aquaculture,2014-15,110080,Andhra_Pradesh
+Fishing and aquaculture,2015-16,87774,Andhra_Pradesh
+Fishing and aquaculture,2016-17,124457,Andhra_Pradesh
+Mining and quarrying,2011-12,11882,Andhra_Pradesh
+Mining and quarrying,2012-13,10013,Andhra_Pradesh
+Mining and quarrying,2013-14,30643,Andhra_Pradesh
+Mining and quarrying,2014-15,25186,Andhra_Pradesh
+Mining and quarrying,2015-16,47743,Andhra_Pradesh
+Mining and quarrying,2016-17,95975,Andhra_Pradesh
+Manufacturing,2011-12,5328609,Andhra_Pradesh
+Manufacturing,2012-13,6663757,Andhra_Pradesh
+Manufacturing,2013-14,7386437,Andhra_Pradesh
+Manufacturing,2014-15,7756921,Andhra_Pradesh
+Manufacturing,2015-16,8487531,Andhra_Pradesh
+Manufacturing,2016-17,9098633,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2011-12,344604,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2012-13,647542,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2013-14,990052,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2014-15,1101919,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2015-16,1436434,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2016-17,1771999,Andhra_Pradesh
+Construction,2011-12,2975966,Andhra_Pradesh
+Construction,2012-13,3042391,Andhra_Pradesh
+Construction,2013-14,3571936,Andhra_Pradesh
+Construction,2014-15,3702571,Andhra_Pradesh
+Construction,2015-16,3930821,Andhra_Pradesh
+Construction,2016-17,4232315,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2011-12,3310742,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2012-13,3881872,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2013-14,4337016,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2014-15,4986319,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2015-16,5500429,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2016-17,6173305,Andhra_Pradesh
+Trade & repair services,2011-12,3191526,Andhra_Pradesh
+Trade & repair services,2012-13,3750911,Andhra_Pradesh
+Trade & repair services,2013-14,4195470,Andhra_Pradesh
+Trade & repair services,2014-15,4817784,Andhra_Pradesh
+Trade & repair services,2015-16,5307508,Andhra_Pradesh
+Trade & repair services,2016-17,5951557,Andhra_Pradesh
+Hotels & restaurants,2011-12,119216,Andhra_Pradesh
+Hotels & restaurants,2012-13,130961,Andhra_Pradesh
+Hotels & restaurants,2013-14,141546,Andhra_Pradesh
+Hotels & restaurants,2014-15,168535,Andhra_Pradesh
+Hotels & restaurants,2015-16,192922,Andhra_Pradesh
+Hotels & restaurants,2016-17,221748,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2011-12,1727689,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2012-13,1965560,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2013-14,2226172,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2014-15,2560623,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2015-16,2859546,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2016-17,3201201,Andhra_Pradesh
+Railways,2011-12,268949,Andhra_Pradesh
+Railways,2012-13,333924,Andhra_Pradesh
+Railways,2013-14,349621,Andhra_Pradesh
+Railways,2014-15,423873,Andhra_Pradesh
+Railways,2015-16,473961,Andhra_Pradesh
+Railways,2016-17,533680,Andhra_Pradesh
+Road transport,2011-12,1004452,Andhra_Pradesh
+Road transport,2012-13,1137035,Andhra_Pradesh
+Road transport,2013-14,1283657,Andhra_Pradesh
+Road transport,2014-15,1452364,Andhra_Pradesh
+Road transport,2015-16,1595178,Andhra_Pradesh
+Road transport,2016-17,1745342,Andhra_Pradesh
+Water transport,2011-12,NA,Andhra_Pradesh
+Water transport,2012-13,NA,Andhra_Pradesh
+Water transport,2013-14,NA,Andhra_Pradesh
+Water transport,2014-15,NA,Andhra_Pradesh
+Water transport,2015-16,NA,Andhra_Pradesh
+Water transport,2016-17,NA,Andhra_Pradesh
+Air transport,2011-12,NA,Andhra_Pradesh
+Air transport,2012-13,NA,Andhra_Pradesh
+Air transport,2013-14,NA,Andhra_Pradesh
+Air transport,2014-15,NA,Andhra_Pradesh
+Air transport,2015-16,NA,Andhra_Pradesh
+Air transport,2016-17,NA,Andhra_Pradesh
+Services incidental to transport,2011-12,139222,Andhra_Pradesh
+Services incidental to transport,2012-13,156962,Andhra_Pradesh
+Services incidental to transport,2013-14,163774,Andhra_Pradesh
+Services incidental to transport,2014-15,190269,Andhra_Pradesh
+Services incidental to transport,2015-16,211159,Andhra_Pradesh
+Services incidental to transport,2016-17,234366,Andhra_Pradesh
+Storage,2011-12,11955,Andhra_Pradesh
+Storage,2012-13,16530,Andhra_Pradesh
+Storage,2013-14,14378,Andhra_Pradesh
+Storage,2014-15,14459,Andhra_Pradesh
+Storage,2015-16,11646,Andhra_Pradesh
+Storage,2016-17,11876,Andhra_Pradesh
+Communication & services related to broadcasting,2011-12,303112,Andhra_Pradesh
+Communication & services related to broadcasting,2012-13,321109,Andhra_Pradesh
+Communication & services related to broadcasting,2013-14,414741,Andhra_Pradesh
+Communication & services related to broadcasting,2014-15,479658,Andhra_Pradesh
+Communication & services related to broadcasting,2015-16,567602,Andhra_Pradesh
+Communication & services related to broadcasting,2016-17,675936,Andhra_Pradesh
+Financial services,2011-12,1165659,Andhra_Pradesh
+Financial services,2012-13,1321389,Andhra_Pradesh
+Financial services,2013-14,1483809,Andhra_Pradesh
+Financial services,2014-15,1671486,Andhra_Pradesh
+Financial services,2015-16,1811965,Andhra_Pradesh
+Financial services,2016-17,2002221,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2011-12,4092800,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2012-13,5007987,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2013-14,6262214,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2014-15,6970183,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2015-16,7855396,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2016-17,8970862,Andhra_Pradesh
+Public administration,2011-12,729814,Andhra_Pradesh
+Public administration,2012-13,822186,Andhra_Pradesh
+Public administration,2013-14,885660,Andhra_Pradesh
+Public administration,2014-15,1036377,Andhra_Pradesh
+Public administration,2015-16,1154920,Andhra_Pradesh
+Public administration,2016-17,1363217,Andhra_Pradesh
+Other services,2011-12,1265812,Andhra_Pradesh
+Other services,2012-13,1476085,Andhra_Pradesh
+Other services,2013-14,1652825,Andhra_Pradesh
+Other services,2014-15,2001581,Andhra_Pradesh
+Other services,2015-16,2328010,Andhra_Pradesh
+Other services,2016-17,2753390,Andhra_Pradesh
+"Agriculture, forestry and fishing",2011-12,1162626,Andhra_Pradesh
+"Agriculture, forestry and fishing",2012-13,1313711,Andhra_Pradesh
+"Agriculture, forestry and fishing",2013-14,1497802,Andhra_Pradesh
+"Agriculture, forestry and fishing",2014-15,1514981,Andhra_Pradesh
+Crops,2011-12,673402,Andhra_Pradesh
+Crops,2012-13,814909,Andhra_Pradesh
+Crops,2013-14,938019,Andhra_Pradesh
+Crops,2014-15,853758,Andhra_Pradesh
+Livestock,2011-12,115315,Andhra_Pradesh
+Livestock,2012-13,109697,Andhra_Pradesh
+Livestock,2013-14,108442,Andhra_Pradesh
+Livestock,2014-15,110304,Andhra_Pradesh
+Forestry and logging,2011-12,368735,Andhra_Pradesh
+Forestry and logging,2012-13,383150,Andhra_Pradesh
+Forestry and logging,2013-14,443092,Andhra_Pradesh
+Forestry and logging,2014-15,540950,Andhra_Pradesh
+Fishing and aquaculture,2011-12,5175,Andhra_Pradesh
+Fishing and aquaculture,2012-13,5956,Andhra_Pradesh
+Fishing and aquaculture,2013-14,8249,Andhra_Pradesh
+Fishing and aquaculture,2014-15,9968,Andhra_Pradesh
+Mining and quarrying,2011-12,28640,Andhra_Pradesh
+Mining and quarrying,2012-13,30544,Andhra_Pradesh
+Mining and quarrying,2013-14,28476,Andhra_Pradesh
+Mining and quarrying,2014-15,33385,Andhra_Pradesh
+Manufacturing,2011-12,1799826,Andhra_Pradesh
+Manufacturing,2012-13,2063113,Andhra_Pradesh
+Manufacturing,2013-14,2355433,Andhra_Pradesh
+Manufacturing,2014-15,2543637,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2011-12,602408,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2012-13,619270,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2013-14,713480,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2014-15,767268,Andhra_Pradesh
+Construction,2011-12,638216,Andhra_Pradesh
+Construction,2012-13,711075,Andhra_Pradesh
+Construction,2013-14,775084,Andhra_Pradesh
+Construction,2014-15,808256,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2011-12,456829,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2012-13,513988,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2013-14,583016,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2014-15,615496,Andhra_Pradesh
+Trade & repair services,2011-12,357260,Andhra_Pradesh
+Trade & repair services,2012-13,407784,Andhra_Pradesh
+Trade & repair services,2013-14,473098,Andhra_Pradesh
+Trade & repair services,2014-15,494162,Andhra_Pradesh
+Hotels & restaurants,2011-12,99569,Andhra_Pradesh
+Hotels & restaurants,2012-13,106203,Andhra_Pradesh
+Hotels & restaurants,2013-14,109918,Andhra_Pradesh
+Hotels & restaurants,2014-15,121333,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2011-12,300837,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2012-13,351968,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2013-14,445448,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2014-15,552234,Andhra_Pradesh
+Railways,2011-12,1720,Andhra_Pradesh
+Railways,2012-13,1919,Andhra_Pradesh
+Railways,2013-14,2309,Andhra_Pradesh
+Railways,2014-15,2528,Andhra_Pradesh
+Road transport,2011-12,169771,Andhra_Pradesh
+Road transport,2012-13,212617,Andhra_Pradesh
+Road transport,2013-14,273314,Andhra_Pradesh
+Road transport,2014-15,349608,Andhra_Pradesh
+Water transport,2011-12,0,Andhra_Pradesh
+Water transport,2012-13,0,Andhra_Pradesh
+Water transport,2013-14,0,Andhra_Pradesh
+Water transport,2014-15,0,Andhra_Pradesh
+Air transport,2011-12,898,Andhra_Pradesh
+Air transport,2012-13,1670,Andhra_Pradesh
+Air transport,2013-14,1452,Andhra_Pradesh
+Air transport,2014-15,3979,Andhra_Pradesh
+Services incidental to transport,2011-12,814,Andhra_Pradesh
+Services incidental to transport,2012-13,1024,Andhra_Pradesh
+Services incidental to transport,2013-14,1334,Andhra_Pradesh
+Services incidental to transport,2014-15,1724,Andhra_Pradesh
+Storage,2011-12,163,Andhra_Pradesh
+Storage,2012-13,181,Andhra_Pradesh
+Storage,2013-14,120,Andhra_Pradesh
+Storage,2014-15,129,Andhra_Pradesh
+Communication & services related to broadcasting,2011-12,127471,Andhra_Pradesh
+Communication & services related to broadcasting,2012-13,134557,Andhra_Pradesh
+Communication & services related to broadcasting,2013-14,166919,Andhra_Pradesh
+Communication & services related to broadcasting,2014-15,194266,Andhra_Pradesh
+Financial services,2011-12,287346,Andhra_Pradesh
+Financial services,2012-13,318473,Andhra_Pradesh
+Financial services,2013-14,332560,Andhra_Pradesh
+Financial services,2014-15,362521,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2011-12,674894,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2012-13,816170,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2013-14,967576,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2014-15,1125937,Andhra_Pradesh
+Public administration,2011-12,375875,Andhra_Pradesh
+Public administration,2012-13,437936,Andhra_Pradesh
+Public administration,2013-14,468316,Andhra_Pradesh
+Public administration,2014-15,553974,Andhra_Pradesh
+Other services,2011-12,612783,Andhra_Pradesh
+Other services,2012-13,714593,Andhra_Pradesh
+Other services,2013-14,768581,Andhra_Pradesh
+Other services,2014-15,923164,Andhra_Pradesh
+"Agriculture, forestry and fishing",2011-12,2233546,Andhra_Pradesh
+"Agriculture, forestry and fishing",2012-13,2550211,Andhra_Pradesh
+"Agriculture, forestry and fishing",2013-14,2844215,Andhra_Pradesh
+"Agriculture, forestry and fishing",2014-15,3211065,Andhra_Pradesh
+"Agriculture, forestry and fishing",2015-16,3632150,Andhra_Pradesh
+Crops,2011-12,1342099,Andhra_Pradesh
+Crops,2012-13,1611776,Andhra_Pradesh
+Crops,2013-14,1812103,Andhra_Pradesh
+Crops,2014-15,2094466,Andhra_Pradesh
+Crops,2015-16,2431179,Andhra_Pradesh
+Livestock,2011-12,477585,Andhra_Pradesh
+Livestock,2012-13,459416,Andhra_Pradesh
+Livestock,2013-14,493408,Andhra_Pradesh
+Livestock,2014-15,562503,Andhra_Pradesh
+Livestock,2015-16,594001,Andhra_Pradesh
+Forestry and logging,2011-12,357560,Andhra_Pradesh
+Forestry and logging,2012-13,399912,Andhra_Pradesh
+Forestry and logging,2013-14,438916,Andhra_Pradesh
+Forestry and logging,2014-15,445149,Andhra_Pradesh
+Forestry and logging,2015-16,478733,Andhra_Pradesh
+Fishing and aquaculture,2011-12,56302,Andhra_Pradesh
+Fishing and aquaculture,2012-13,79107,Andhra_Pradesh
+Fishing and aquaculture,2013-14,99788,Andhra_Pradesh
+Fishing and aquaculture,2014-15,108947,Andhra_Pradesh
+Fishing and aquaculture,2015-16,128237,Andhra_Pradesh
+Mining and quarrying,2011-12,1620374,Andhra_Pradesh
+Mining and quarrying,2012-13,1879069,Andhra_Pradesh
+Mining and quarrying,2013-14,1858615,Andhra_Pradesh
+Mining and quarrying,2014-15,2037289,Andhra_Pradesh
+Mining and quarrying,2015-16,2199381,Andhra_Pradesh
+Manufacturing,2011-12,3016583,Andhra_Pradesh
+Manufacturing,2012-13,3797607,Andhra_Pradesh
+Manufacturing,2013-14,3660373,Andhra_Pradesh
+Manufacturing,2014-15,4114148,Andhra_Pradesh
+Manufacturing,2015-16,4569985,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2011-12,241235,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2012-13,302773,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2013-14,335541,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2014-15,337489,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2015-16,379501,Andhra_Pradesh
+Construction,2011-12,1439526,Andhra_Pradesh
+Construction,2012-13,1455717,Andhra_Pradesh
+Construction,2013-14,1699296,Andhra_Pradesh
+Construction,2014-15,1789834,Andhra_Pradesh
+Construction,2015-16,1927075,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2011-12,1152143,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2012-13,1383070,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2013-14,1595751,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2014-15,1991359,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2015-16,2387496,Andhra_Pradesh
+Trade & repair services,2011-12,1065983,Andhra_Pradesh
+Trade & repair services,2012-13,1272474,Andhra_Pradesh
+Trade & repair services,2013-14,1479141,Andhra_Pradesh
+Trade & repair services,2014-15,1840196,Andhra_Pradesh
+Trade & repair services,2015-16,2204400,Andhra_Pradesh
+Hotels & restaurants,2011-12,86160,Andhra_Pradesh
+Hotels & restaurants,2012-13,110596,Andhra_Pradesh
+Hotels & restaurants,2013-14,116610,Andhra_Pradesh
+Hotels & restaurants,2014-15,151163,Andhra_Pradesh
+Hotels & restaurants,2015-16,183096,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2011-12,975954,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2012-13,1148809,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2013-14,1325607,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2014-15,1470022,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2015-16,1690746,Andhra_Pradesh
+Railways,2011-12,297906,Andhra_Pradesh
+Railways,2012-13,362089,Andhra_Pradesh
+Railways,2013-14,404019,Andhra_Pradesh
+Railways,2014-15,472702,Andhra_Pradesh
+Railways,2015-16,551345,Andhra_Pradesh
+Road transport,2011-12,458247,Andhra_Pradesh
+Road transport,2012-13,530804,Andhra_Pradesh
+Road transport,2013-14,608092,Andhra_Pradesh
+Road transport,2014-15,649648,Andhra_Pradesh
+Road transport,2015-16,729492,Andhra_Pradesh
+Water transport,2011-12,0,Andhra_Pradesh
+Water transport,2012-13,NA,Andhra_Pradesh
+Water transport,2013-14,0,Andhra_Pradesh
+Water transport,2014-15,0,Andhra_Pradesh
+Water transport,2015-16,0,Andhra_Pradesh
+Air transport,2011-12,1373,Andhra_Pradesh
+Air transport,2012-13,2448,Andhra_Pradesh
+Air transport,2013-14,3362,Andhra_Pradesh
+Air transport,2014-15,6716,Andhra_Pradesh
+Air transport,2015-16,11455,Andhra_Pradesh
+Services incidental to transport,2011-12,22315,Andhra_Pradesh
+Services incidental to transport,2012-13,26547,Andhra_Pradesh
+Services incidental to transport,2013-14,27554,Andhra_Pradesh
+Services incidental to transport,2014-15,17436,Andhra_Pradesh
+Services incidental to transport,2015-16,16136,Andhra_Pradesh
+Storage,2011-12,384,Andhra_Pradesh
+Storage,2012-13,388,Andhra_Pradesh
+Storage,2013-14,378,Andhra_Pradesh
+Storage,2014-15,306,Andhra_Pradesh
+Storage,2015-16,284,Andhra_Pradesh
+Communication & services related to broadcasting,2011-12,195729,Andhra_Pradesh
+Communication & services related to broadcasting,2012-13,226533,Andhra_Pradesh
+Communication & services related to broadcasting,2013-14,282202,Andhra_Pradesh
+Communication & services related to broadcasting,2014-15,323214,Andhra_Pradesh
+Communication & services related to broadcasting,2015-16,382034,Andhra_Pradesh
+Financial services,2011-12,414386,Andhra_Pradesh
+Financial services,2012-13,462493,Andhra_Pradesh
+Financial services,2013-14,509609,Andhra_Pradesh
+Financial services,2014-15,551441,Andhra_Pradesh
+Financial services,2015-16,606546,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2011-12,1101151,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2012-13,1290003,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2013-14,1450196,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2014-15,1656784,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2015-16,1898288,Andhra_Pradesh
+Public administration,2011-12,981782,Andhra_Pradesh
+Public administration,2012-13,927373,Andhra_Pradesh
+Public administration,2013-14,928783,Andhra_Pradesh
+Public administration,2014-15,1088325,Andhra_Pradesh
+Public administration,2015-16,1126349,Andhra_Pradesh
+Other services,2011-12,736279,Andhra_Pradesh
+Other services,2012-13,885544,Andhra_Pradesh
+Other services,2013-14,1045235,Andhra_Pradesh
+Other services,2014-15,1375410,Andhra_Pradesh
+Other services,2015-16,1690431,Andhra_Pradesh
+"Agriculture, forestry and fishing",2011-12,7554868,Andhra_Pradesh
+"Agriculture, forestry and fishing",2012-13,8180610,Andhra_Pradesh
+"Agriculture, forestry and fishing",2013-14,9670052,Andhra_Pradesh
+"Agriculture, forestry and fishing",2014-15,11219422,Andhra_Pradesh
+"Agriculture, forestry and fishing",2015-16,10806128,Andhra_Pradesh
+Crops,2011-12,5339455,Andhra_Pradesh
+Crops,2012-13,5749544,Andhra_Pradesh
+Crops,2013-14,6992419,Andhra_Pradesh
+Crops,2014-15,8157179,Andhra_Pradesh
+Crops,2015-16,7517661,Andhra_Pradesh
+Livestock,2011-12,1349662,Andhra_Pradesh
+Livestock,2012-13,1506993,Andhra_Pradesh
+Livestock,2013-14,1634066,Andhra_Pradesh
+Livestock,2014-15,1868771,Andhra_Pradesh
+Livestock,2015-16,2117661,Andhra_Pradesh
+Forestry and logging,2011-12,593458,Andhra_Pradesh
+Forestry and logging,2012-13,604866,Andhra_Pradesh
+Forestry and logging,2013-14,658629,Andhra_Pradesh
+Forestry and logging,2014-15,693082,Andhra_Pradesh
+Forestry and logging,2015-16,720704,Andhra_Pradesh
+Fishing and aquaculture,2011-12,272293,Andhra_Pradesh
+Fishing and aquaculture,2012-13,319207,Andhra_Pradesh
+Fishing and aquaculture,2013-14,384938,Andhra_Pradesh
+Fishing and aquaculture,2014-15,500390,Andhra_Pradesh
+Fishing and aquaculture,2015-16,450102,Andhra_Pradesh
+Mining and quarrying,2011-12,450254,Andhra_Pradesh
+Mining and quarrying,2012-13,407345,Andhra_Pradesh
+Mining and quarrying,2013-14,617181,Andhra_Pradesh
+Mining and quarrying,2014-15,846882,Andhra_Pradesh
+Mining and quarrying,2015-16,413803,Andhra_Pradesh
+Manufacturing,2011-12,9713888,Andhra_Pradesh
+Manufacturing,2012-13,10850509,Andhra_Pradesh
+Manufacturing,2013-14,11794288,Andhra_Pradesh
+Manufacturing,2014-15,12953843,Andhra_Pradesh
+Manufacturing,2015-16,14170107,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2011-12,1082882,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2012-13,1147835,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2013-14,1275595,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2014-15,1425762,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2015-16,1502906,Andhra_Pradesh
+Construction,2011-12,5033145,Andhra_Pradesh
+Construction,2012-13,5233950,Andhra_Pradesh
+Construction,2013-14,5940134,Andhra_Pradesh
+Construction,2014-15,6104799,Andhra_Pradesh
+Construction,2015-16,6586669,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2011-12,6044367,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2012-13,6965384,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2013-14,8309100,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2014-15,8991658,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2015-16,9894203,Andhra_Pradesh
+Trade & repair services,2011-12,4957019,Andhra_Pradesh
+Trade & repair services,2012-13,5774921,Andhra_Pradesh
+Trade & repair services,2013-14,7007816,Andhra_Pradesh
+Trade & repair services,2014-15,7523720,Andhra_Pradesh
+Trade & repair services,2015-16,8234129,Andhra_Pradesh
+Hotels & restaurants,2011-12,1087348,Andhra_Pradesh
+Hotels & restaurants,2012-13,1190463,Andhra_Pradesh
+Hotels & restaurants,2013-14,1301284,Andhra_Pradesh
+Hotels & restaurants,2014-15,1467938,Andhra_Pradesh
+Hotels & restaurants,2015-16,1660073,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2011-12,3351079,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2012-13,3839568,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2013-14,4405851,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2014-15,5097652,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2015-16,6072643,Andhra_Pradesh
+Railways,2011-12,202215,Andhra_Pradesh
+Railways,2012-13,229754,Andhra_Pradesh
+Railways,2013-14,229577,Andhra_Pradesh
+Railways,2014-15,259482,Andhra_Pradesh
+Railways,2015-16,335247,Andhra_Pradesh
+Road transport,2011-12,2195731,Andhra_Pradesh
+Road transport,2012-13,2533015,Andhra_Pradesh
+Road transport,2013-14,2870094,Andhra_Pradesh
+Road transport,2014-15,3194576,Andhra_Pradesh
+Road transport,2015-16,3782060,Andhra_Pradesh
+Water transport,2011-12,26907,Andhra_Pradesh
+Water transport,2012-13,25331,Andhra_Pradesh
+Water transport,2013-14,22460,Andhra_Pradesh
+Water transport,2014-15,24152,Andhra_Pradesh
+Water transport,2015-16,23882,Andhra_Pradesh
+Air transport,2011-12,37365,Andhra_Pradesh
+Air transport,2012-13,67807,Andhra_Pradesh
+Air transport,2013-14,56345,Andhra_Pradesh
+Air transport,2014-15,171785,Andhra_Pradesh
+Air transport,2015-16,227201,Andhra_Pradesh
+Services incidental to transport,2011-12,47206,Andhra_Pradesh
+Services incidental to transport,2012-13,39823,Andhra_Pradesh
+Services incidental to transport,2013-14,44645,Andhra_Pradesh
+Services incidental to transport,2014-15,55349,Andhra_Pradesh
+Services incidental to transport,2015-16,61998,Andhra_Pradesh
+Storage,2011-12,27642,Andhra_Pradesh
+Storage,2012-13,31514,Andhra_Pradesh
+Storage,2013-14,34986,Andhra_Pradesh
+Storage,2014-15,42787,Andhra_Pradesh
+Storage,2015-16,48175,Andhra_Pradesh
+Communication & services related to broadcasting,2011-12,814013,Andhra_Pradesh
+Communication & services related to broadcasting,2012-13,912325,Andhra_Pradesh
+Communication & services related to broadcasting,2013-14,1147745,Andhra_Pradesh
+Communication & services related to broadcasting,2014-15,1349520,Andhra_Pradesh
+Communication & services related to broadcasting,2015-16,1594080,Andhra_Pradesh
+Financial services,2011-12,2879395,Andhra_Pradesh
+Financial services,2012-13,3211947,Andhra_Pradesh
+Financial services,2013-14,3610955,Andhra_Pradesh
+Financial services,2014-15,4094169,Andhra_Pradesh
+Financial services,2015-16,4482507,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2011-12,14366759,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2012-13,17695719,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2013-14,21856110,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2014-15,24766393,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2015-16,29229656,Andhra_Pradesh
+Public administration,2011-12,1488762,Andhra_Pradesh
+Public administration,2012-13,1785628,Andhra_Pradesh
+Public administration,2013-14,2060700,Andhra_Pradesh
+Public administration,2014-15,2232584,Andhra_Pradesh
+Public administration,2015-16,2376712,Andhra_Pradesh
+Other services,2011-12,3256051,Andhra_Pradesh
+Other services,2012-13,3837408,Andhra_Pradesh
+Other services,2013-14,4501578,Andhra_Pradesh
+Other services,2014-15,5308174,Andhra_Pradesh
+Other services,2015-16,6267020,Andhra_Pradesh
+"Agriculture, forestry and fishing",2011-12,4837594,Andhra_Pradesh
+"Agriculture, forestry and fishing",2012-13,5036409,Andhra_Pradesh
+"Agriculture, forestry and fishing",2013-14,5501261,Andhra_Pradesh
+"Agriculture, forestry and fishing",2014-15,5930617,Andhra_Pradesh
+"Agriculture, forestry and fishing",2015-16,5871958,Andhra_Pradesh
+Crops,2011-12,2904593,Andhra_Pradesh
+Crops,2012-13,2640015,Andhra_Pradesh
+Crops,2013-14,2837347,Andhra_Pradesh
+Crops,2014-15,3070386,Andhra_Pradesh
+Crops,2015-16,2685772,Andhra_Pradesh
+Livestock,2011-12,1125351,Andhra_Pradesh
+Livestock,2012-13,1411393,Andhra_Pradesh
+Livestock,2013-14,1548294,Andhra_Pradesh
+Livestock,2014-15,1656104,Andhra_Pradesh
+Livestock,2015-16,1890417,Andhra_Pradesh
+Forestry and logging,2011-12,430286,Andhra_Pradesh
+Forestry and logging,2012-13,469819,Andhra_Pradesh
+Forestry and logging,2013-14,492782,Andhra_Pradesh
+Forestry and logging,2014-15,499808,Andhra_Pradesh
+Forestry and logging,2015-16,559582,Andhra_Pradesh
+Fishing and aquaculture,2011-12,377363,Andhra_Pradesh
+Fishing and aquaculture,2012-13,515183,Andhra_Pradesh
+Fishing and aquaculture,2013-14,622837,Andhra_Pradesh
+Fishing and aquaculture,2014-15,704319,Andhra_Pradesh
+Fishing and aquaculture,2015-16,736188,Andhra_Pradesh
+Mining and quarrying,2011-12,272483,Andhra_Pradesh
+Mining and quarrying,2012-13,267683,Andhra_Pradesh
+Mining and quarrying,2013-14,401836,Andhra_Pradesh
+Mining and quarrying,2014-15,558824,Andhra_Pradesh
+Mining and quarrying,2015-16,593520,Andhra_Pradesh
+Manufacturing,2011-12,3420404,Andhra_Pradesh
+Manufacturing,2012-13,4054145,Andhra_Pradesh
+Manufacturing,2013-14,4069129,Andhra_Pradesh
+Manufacturing,2014-15,4273567,Andhra_Pradesh
+Manufacturing,2015-16,4670069,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2011-12,467898,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2012-13,538745,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2013-14,570824,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2014-15,482470,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2015-16,611019,Andhra_Pradesh
+Construction,2011-12,5308794,Andhra_Pradesh
+Construction,2012-13,5544177,Andhra_Pradesh
+Construction,2013-14,6436556,Andhra_Pradesh
+Construction,2014-15,7314003,Andhra_Pradesh
+Construction,2015-16,7722140,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2011-12,5321692,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2012-13,6502369,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2013-14,7368355,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2014-15,8557345,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2015-16,9916986,Andhra_Pradesh
+Trade & repair services*,2011-12,4732163,Andhra_Pradesh
+Trade & repair services*,2012-13,5849587,Andhra_Pradesh
+Trade & repair services*,2013-14,6657209,Andhra_Pradesh
+Trade & repair services*,2014-15,7763847,Andhra_Pradesh
+Trade & repair services*,2015-16,9031847,Andhra_Pradesh
+Hotels & restaurants,2011-12,589529,Andhra_Pradesh
+Hotels & restaurants,2012-13,652782,Andhra_Pradesh
+Hotels & restaurants,2013-14,711146,Andhra_Pradesh
+Hotels & restaurants,2014-15,793498,Andhra_Pradesh
+Hotels & restaurants,2015-16,885139,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2011-12,2797969,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2012-13,3110217,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2013-14,3608615,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2014-15,4020934,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2015-16,4613037,Andhra_Pradesh
+Railways,2011-12,98140,Andhra_Pradesh
+Railways,2012-13,119548,Andhra_Pradesh
+Railways,2013-14,126962,Andhra_Pradesh
+Railways,2014-15,147897,Andhra_Pradesh
+Railways,2015-16,172284,Andhra_Pradesh
+Road transport**,2011-12,2001208,Andhra_Pradesh
+Road transport**,2012-13,2237489,Andhra_Pradesh
+Road transport**,2013-14,2591554,Andhra_Pradesh
+Road transport**,2014-15,2761427,Andhra_Pradesh
+Road transport**,2015-16,2963818,Andhra_Pradesh
+Water transport,2011-12,28281,Andhra_Pradesh
+Water transport,2012-13,24400,Andhra_Pradesh
+Water transport,2013-14,20105,Andhra_Pradesh
+Water transport,2014-15,26956,Andhra_Pradesh
+Water transport,2015-16,29934,Andhra_Pradesh
+Air transport,2011-12,26891,Andhra_Pradesh
+Air transport,2012-13,52009,Andhra_Pradesh
+Air transport,2013-14,42831,Andhra_Pradesh
+Air transport,2014-15,125029,Andhra_Pradesh
+Air transport,2015-16,326208,Andhra_Pradesh
+Services incidental to transport,2011-12,61793,Andhra_Pradesh
+Services incidental to transport,2012-13,59010,Andhra_Pradesh
+Services incidental to transport,2013-14,69440,Andhra_Pradesh
+Services incidental to transport,2014-15,71567,Andhra_Pradesh
+Services incidental to transport,2015-16,75275,Andhra_Pradesh
+Storage,2011-12,3317,Andhra_Pradesh
+Storage,2012-13,3736,Andhra_Pradesh
+Storage,2013-14,2877,Andhra_Pradesh
+Storage,2014-15,3290,Andhra_Pradesh
+Storage,2015-16,3822,Andhra_Pradesh
+Communication & services related to broadcasting,2011-12,578340,Andhra_Pradesh
+Communication & services related to broadcasting,2012-13,614025,Andhra_Pradesh
+Communication & services related to broadcasting,2013-14,754846,Andhra_Pradesh
+Communication & services related to broadcasting,2014-15,884767,Andhra_Pradesh
+Communication & services related to broadcasting,2015-16,1041695,Andhra_Pradesh
+Financial services,2011-12,1430848,Andhra_Pradesh
+Financial services,2012-13,1629698,Andhra_Pradesh
+Financial services,2013-14,1853055,Andhra_Pradesh
+Financial services,2014-15,2010306,Andhra_Pradesh
+Financial services,2015-16,2180902,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2011-12,4220948,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2012-13,5223391,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2013-14,6190742,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2014-15,7287633,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2015-16,8584749,Andhra_Pradesh
+Public administration,2011-12,1585585,Andhra_Pradesh
+Public administration,2012-13,1718357,Andhra_Pradesh
+Public administration,2013-14,1874509,Andhra_Pradesh
+Public administration,2014-15,2068915,Andhra_Pradesh
+Public administration,2015-16,2306545,Andhra_Pradesh
+Other services,2011-12,3965096,Andhra_Pradesh
+Other services,2012-13,4503098,Andhra_Pradesh
+Other services,2013-14,5035147,Andhra_Pradesh
+Other services,2014-15,5728645,Andhra_Pradesh
+Other services,2015-16,6503671,Andhra_Pradesh
+"Agriculture, forestry and fishing",2011-12,9107231,Andhra_Pradesh
+"Agriculture, forestry and fishing",2012-13,12640261,Andhra_Pradesh
+"Agriculture, forestry and fishing",2013-14,14859567,Andhra_Pradesh
+"Agriculture, forestry and fishing",2014-15,16235647,Andhra_Pradesh
+"Agriculture, forestry and fishing",2015-16,17861367,Andhra_Pradesh
+"Agriculture, forestry and fishing",2016-17,23308835,Andhra_Pradesh
+Crops,2011-12,7333369,Andhra_Pradesh
+Crops,2012-13,10540449,Andhra_Pradesh
+Crops,2013-14,12457830,Andhra_Pradesh
+Crops,2014-15,13216013,Andhra_Pradesh
+Crops,2015-16,13958549,Andhra_Pradesh
+Crops,2016-17,18661843,Andhra_Pradesh
+Livestock,2011-12,897640,Andhra_Pradesh
+Livestock,2012-13,1129978,Andhra_Pradesh
+Livestock,2013-14,1363179,Andhra_Pradesh
+Livestock,2014-15,1932769,Andhra_Pradesh
+Livestock,2015-16,2745187,Andhra_Pradesh
+Livestock,2016-17,3375141,Andhra_Pradesh
+Forestry and logging,2011-12,811315,Andhra_Pradesh
+Forestry and logging,2012-13,892627,Andhra_Pradesh
+Forestry and logging,2013-14,943162,Andhra_Pradesh
+Forestry and logging,2014-15,965588,Andhra_Pradesh
+Forestry and logging,2015-16,1018504,Andhra_Pradesh
+Forestry and logging,2016-17,1091337,Andhra_Pradesh
+Fishing and aquaculture,2011-12,64907,Andhra_Pradesh
+Fishing and aquaculture,2012-13,77207,Andhra_Pradesh
+Fishing and aquaculture,2013-14,95396,Andhra_Pradesh
+Fishing and aquaculture,2014-15,121277,Andhra_Pradesh
+Fishing and aquaculture,2015-16,139127,Andhra_Pradesh
+Fishing and aquaculture,2016-17,180514,Andhra_Pradesh
+Mining and quarrying,2011-12,1171195,Andhra_Pradesh
+Mining and quarrying,2012-13,1260187,Andhra_Pradesh
+Mining and quarrying,2013-14,1548066,Andhra_Pradesh
+Mining and quarrying,2014-15,1618373,Andhra_Pradesh
+Mining and quarrying,2015-16,1686385,Andhra_Pradesh
+Mining and quarrying,2016-17,1924216,Andhra_Pradesh
+Manufacturing,2011-12,3828625,Andhra_Pradesh
+Manufacturing,2012-13,4171724,Andhra_Pradesh
+Manufacturing,2013-14,4018450,Andhra_Pradesh
+Manufacturing,2014-15,4368833,Andhra_Pradesh
+Manufacturing,2015-16,4730335,Andhra_Pradesh
+Manufacturing,2016-17,5175608,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2011-12,903127,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2012-13,1011624,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2013-14,1161616,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2014-15,1272905,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2015-16,1520303,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2016-17,1679614,Andhra_Pradesh
+Construction,2011-12,3495447,Andhra_Pradesh
+Construction,2012-13,3499404,Andhra_Pradesh
+Construction,2013-14,4080463,Andhra_Pradesh
+Construction,2014-15,4403151,Andhra_Pradesh
+Construction,2015-16,4772101,Andhra_Pradesh
+Construction,2016-17,5186891,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2011-12,3378935,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2012-13,4128368,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2013-14,4714291,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2014-15,5357515,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2015-16,6237544,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2016-17,6914838,Andhra_Pradesh
+Trade & repair services,2011-12,3149375,Andhra_Pradesh
+Trade & repair services,2012-13,3873696,Andhra_Pradesh
+Trade & repair services,2013-14,4427944,Andhra_Pradesh
+Trade & repair services,2014-15,5053625,Andhra_Pradesh
+Trade & repair services,2015-16,5901007,Andhra_Pradesh
+Trade & repair services,2016-17,6556695,Andhra_Pradesh
+Hotels & restaurants,2011-12,229560,Andhra_Pradesh
+Hotels & restaurants,2012-13,254672,Andhra_Pradesh
+Hotels & restaurants,2013-14,286347,Andhra_Pradesh
+Hotels & restaurants,2014-15,303890,Andhra_Pradesh
+Hotels & restaurants,2015-16,336537,Andhra_Pradesh
+Hotels & restaurants,2016-17,358143,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2011-12,1831032,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2012-13,2199650,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2013-14,2505384,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2014-15,2865802,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2015-16,3329850,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2016-17,3806046,Andhra_Pradesh
+Railways,2011-12,318912,Andhra_Pradesh
+Railways,2012-13,436586,Andhra_Pradesh
+Railways,2013-14,457608,Andhra_Pradesh
+Railways,2014-15,498734,Andhra_Pradesh
+Railways,2015-16,581300,Andhra_Pradesh
+Railways,2016-17,617543,Andhra_Pradesh
+Road transport,2011-12,949685,Andhra_Pradesh
+Road transport,2012-13,1096094,Andhra_Pradesh
+Road transport,2013-14,1209997,Andhra_Pradesh
+Road transport,2014-15,1369235,Andhra_Pradesh
+Road transport,2015-16,1538680,Andhra_Pradesh
+Road transport,2016-17,1705112,Andhra_Pradesh
+Water transport,2011-12,0,Andhra_Pradesh
+Water transport,2012-13,0,Andhra_Pradesh
+Water transport,2013-14,0,Andhra_Pradesh
+Water transport,2014-15,0,Andhra_Pradesh
+Water transport,2015-16,0,Andhra_Pradesh
+Water transport,2016-17,0,Andhra_Pradesh
+Air transport,2011-12,4209,Andhra_Pradesh
+Air transport,2012-13,8197,Andhra_Pradesh
+Air transport,2013-14,6141,Andhra_Pradesh
+Air transport,2014-15,26746,Andhra_Pradesh
+Air transport,2015-16,26745,Andhra_Pradesh
+Air transport,2016-17,54206,Andhra_Pradesh
+Services incidental to transport,2011-12,25479,Andhra_Pradesh
+Services incidental to transport,2012-13,29362,Andhra_Pradesh
+Services incidental to transport,2013-14,32489,Andhra_Pradesh
+Services incidental to transport,2014-15,36694,Andhra_Pradesh
+Services incidental to transport,2015-16,41412,Andhra_Pradesh
+Services incidental to transport,2016-17,46101,Andhra_Pradesh
+Storage,2011-12,18514,Andhra_Pradesh
+Storage,2012-13,23059,Andhra_Pradesh
+Storage,2013-14,26256,Andhra_Pradesh
+Storage,2014-15,29012,Andhra_Pradesh
+Storage,2015-16,33987,Andhra_Pradesh
+Storage,2016-17,38059,Andhra_Pradesh
+Communication & services related to broadcasting,2011-12,514233,Andhra_Pradesh
+Communication & services related to broadcasting,2012-13,606352,Andhra_Pradesh
+Communication & services related to broadcasting,2013-14,772893,Andhra_Pradesh
+Communication & services related to broadcasting,2014-15,905381,Andhra_Pradesh
+Communication & services related to broadcasting,2015-16,1107726,Andhra_Pradesh
+Communication & services related to broadcasting,2016-17,1345025,Andhra_Pradesh
+Financial services,2011-12,1593654,Andhra_Pradesh
+Financial services,2012-13,1732129,Andhra_Pradesh
+Financial services,2013-14,1920614,Andhra_Pradesh
+Financial services,2014-15,1988794,Andhra_Pradesh
+Financial services,2015-16,2384124,Andhra_Pradesh
+Financial services,2016-17,2674933,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2011-12,1639308,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2012-13,1945857,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2013-14,2279709,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2014-15,2660123,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2015-16,3085987,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2016-17,3499140,Andhra_Pradesh
+Public administration,2011-12,1629141,Andhra_Pradesh
+Public administration,2012-13,1907083,Andhra_Pradesh
+Public administration,2013-14,2164636,Andhra_Pradesh
+Public administration,2014-15,2497321,Andhra_Pradesh
+Public administration,2015-16,2873690,Andhra_Pradesh
+Public administration,2016-17,3221560,Andhra_Pradesh
+Other services,2011-12,1791096,Andhra_Pradesh
+Other services,2012-13,2145512,Andhra_Pradesh
+Other services,2013-14,2359317,Andhra_Pradesh
+Other services,2014-15,2747805,Andhra_Pradesh
+Other services,2015-16,3200937,Andhra_Pradesh
+Other services,2016-17,3511083,Andhra_Pradesh
+"Agriculture, forestry and fishing",2011-12,14517809,Andhra_Pradesh
+"Agriculture, forestry and fishing",2012-13,15443212,Andhra_Pradesh
+"Agriculture, forestry and fishing",2013-14,18586360,Andhra_Pradesh
+"Agriculture, forestry and fishing",2014-15,16475655,Andhra_Pradesh
+Crops,2011-12,9851618,Andhra_Pradesh
+Crops,2012-13,10182217,Andhra_Pradesh
+Crops,2013-14,13079162,Andhra_Pradesh
+Crops,2014-15,10435121,Andhra_Pradesh
+Livestock,2011-12,2855741,Andhra_Pradesh
+Livestock,2012-13,3282569,Andhra_Pradesh
+Livestock,2013-14,3499939,Andhra_Pradesh
+Livestock,2014-15,3972829,Andhra_Pradesh
+Forestry and logging,2011-12,1516574,Andhra_Pradesh
+Forestry and logging,2012-13,1626793,Andhra_Pradesh
+Forestry and logging,2013-14,1622060,Andhra_Pradesh
+Forestry and logging,2014-15,1592564,Andhra_Pradesh
+Fishing and aquaculture,2011-12,293875,Andhra_Pradesh
+Fishing and aquaculture,2012-13,351634,Andhra_Pradesh
+Fishing and aquaculture,2013-14,385199,Andhra_Pradesh
+Fishing and aquaculture,2014-15,475141,Andhra_Pradesh
+Mining and quarrying,2011-12,5649313,Andhra_Pradesh
+Mining and quarrying,2012-13,5902340,Andhra_Pradesh
+Mining and quarrying,2013-14,5205701,Andhra_Pradesh
+Mining and quarrying,2014-15,5282727,Andhra_Pradesh
+Manufacturing,2011-12,24603175,Andhra_Pradesh
+Manufacturing,2012-13,28203191,Andhra_Pradesh
+Manufacturing,2013-14,31267420,Andhra_Pradesh
+Manufacturing,2014-15,33660294,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2011-12,2617289,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2012-13,2852444,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2013-14,4028665,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2014-15,4334702,Andhra_Pradesh
+Construction,2011-12,7863028,Andhra_Pradesh
+Construction,2012-13,8186890,Andhra_Pradesh
+Construction,2013-14,8867104,Andhra_Pradesh
+Construction,2014-15,9450211,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2011-12,10560911,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2012-13,12779220,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2013-14,13826084,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2014-15,15839100,Andhra_Pradesh
+Trade & repair services,2011-12,9422900,Andhra_Pradesh
+Trade & repair services,2012-13,11507640,Andhra_Pradesh
+Trade & repair services,2013-14,12433410,Andhra_Pradesh
+Trade & repair services,2014-15,14286902,Andhra_Pradesh
+Hotels & restaurants,2011-12,1138011,Andhra_Pradesh
+Hotels & restaurants,2012-13,1271580,Andhra_Pradesh
+Hotels & restaurants,2013-14,1392674,Andhra_Pradesh
+Hotels & restaurants,2014-15,1552198,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2011-12,6450024,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2012-13,7485340,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2013-14,8371252,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2014-15,9697246,Andhra_Pradesh
+Railways,2011-12,598786,Andhra_Pradesh
+Railways,2012-13,649139,Andhra_Pradesh
+Railways,2013-14,686231,Andhra_Pradesh
+Railways,2014-15,797933,Andhra_Pradesh
+Road transport,2011-12,3122427,Andhra_Pradesh
+Road transport,2012-13,3589076,Andhra_Pradesh
+Road transport,2013-14,4065463,Andhra_Pradesh
+Road transport,2014-15,4644123,Andhra_Pradesh
+Water transport,2011-12,122650,Andhra_Pradesh
+Water transport,2012-13,187220,Andhra_Pradesh
+Water transport,2013-14,172703,Andhra_Pradesh
+Water transport,2014-15,223626,Andhra_Pradesh
+Air transport,2011-12,99047,Andhra_Pradesh
+Air transport,2012-13,183101,Andhra_Pradesh
+Air transport,2013-14,144304,Andhra_Pradesh
+Air transport,2014-15,174188,Andhra_Pradesh
+Services incidental to transport,2011-12,825433,Andhra_Pradesh
+Services incidental to transport,2012-13,973656,Andhra_Pradesh
+Services incidental to transport,2013-14,1040005,Andhra_Pradesh
+Services incidental to transport,2014-15,1175023,Andhra_Pradesh
+Storage,2011-12,92479,Andhra_Pradesh
+Storage,2012-13,101918,Andhra_Pradesh
+Storage,2013-14,116229,Andhra_Pradesh
+Storage,2014-15,131237,Andhra_Pradesh
+Communication & services related to broadcasting,2011-12,1589202,Andhra_Pradesh
+Communication & services related to broadcasting,2012-13,1801230,Andhra_Pradesh
+Communication & services related to broadcasting,2013-14,2146318,Andhra_Pradesh
+Communication & services related to broadcasting,2014-15,2551115,Andhra_Pradesh
+Financial services,2011-12,11783628,Andhra_Pradesh
+Financial services,2012-13,12909085,Andhra_Pradesh
+Financial services,2013-14,14993996,Andhra_Pradesh
+Financial services,2014-15,16143324,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2011-12,19086971,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2012-13,22457025,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2013-14,26166722,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2014-15,30718051,Andhra_Pradesh
+Public administration,2011-12,3906953,Andhra_Pradesh
+Public administration,2012-13,4337362,Andhra_Pradesh
+Public administration,2013-14,4763853,Andhra_Pradesh
+Public administration,2014-15,5426991,Andhra_Pradesh
+Other services,2011-12,6662495,Andhra_Pradesh
+Other services,2012-13,7831781,Andhra_Pradesh
+Other services,2013-14,9199390,Andhra_Pradesh
+Other services,2014-15,10806363,Andhra_Pradesh
+"Agriculture, forestry and fishing",2011-12,251623,Andhra_Pradesh
+"Agriculture, forestry and fishing",2012-13,297165,Andhra_Pradesh
+"Agriculture, forestry and fishing",2013-14,349942,Andhra_Pradesh
+"Agriculture, forestry and fishing",2014-15,383140,Andhra_Pradesh
+Crops,2011-12,137772,Andhra_Pradesh
+Crops,2012-13,168583,Andhra_Pradesh
+Crops,2013-14,205623,Andhra_Pradesh
+Crops,2014-15,226583,Andhra_Pradesh
+Livestock,2011-12,52587,Andhra_Pradesh
+Livestock,2012-13,58268,Andhra_Pradesh
+Livestock,2013-14,67294,Andhra_Pradesh
+Livestock,2014-15,75483,Andhra_Pradesh
+Forestry and logging,2011-12,42183,Andhra_Pradesh
+Forestry and logging,2012-13,43885,Andhra_Pradesh
+Forestry and logging,2013-14,43188,Andhra_Pradesh
+Forestry and logging,2014-15,45831,Andhra_Pradesh
+Fishing and aquaculture,2011-12,19081,Andhra_Pradesh
+Fishing and aquaculture,2012-13,26429,Andhra_Pradesh
+Fishing and aquaculture,2013-14,33836,Andhra_Pradesh
+Fishing and aquaculture,2014-15,35243,Andhra_Pradesh
+Mining and quarrying,2011-12,NA,Andhra_Pradesh
+Mining and quarrying,2012-13,NA,Andhra_Pradesh
+Mining and quarrying,2013-14,NA,Andhra_Pradesh
+Mining and quarrying,2014-15,NA,Andhra_Pradesh
+Manufacturing,2011-12,40990,Andhra_Pradesh
+Manufacturing,2012-13,30594,Andhra_Pradesh
+Manufacturing,2013-14,46011,Andhra_Pradesh
+Manufacturing,2014-15,49501,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2011-12,54276,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2012-13,55506,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2013-14,48391,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2014-15,27490,Andhra_Pradesh
+Construction,2011-12,100712,Andhra_Pradesh
+Construction,2012-13,106164,Andhra_Pradesh
+Construction,2013-14,120023,Andhra_Pradesh
+Construction,2014-15,143182,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2011-12,156450,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2012-13,140653,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2013-14,217288,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2014-15,262950,Andhra_Pradesh
+Trade & repair services,2011-12,149457,Andhra_Pradesh
+Trade & repair services,2012-13,132930,Andhra_Pradesh
+Trade & repair services,2013-14,208884,Andhra_Pradesh
+Trade & repair services,2014-15,253637,Andhra_Pradesh
+Hotels & restaurants,2011-12,6993,Andhra_Pradesh
+Hotels & restaurants,2012-13,7723,Andhra_Pradesh
+Hotels & restaurants,2013-14,8404,Andhra_Pradesh
+Hotels & restaurants,2014-15,9313,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2011-12,70408,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2012-13,87255,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2013-14,98126,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2014-15,109726,Andhra_Pradesh
+Railways,2011-12,2,Andhra_Pradesh
+Railways,2012-13,3,Andhra_Pradesh
+Railways,2013-14,5,Andhra_Pradesh
+Railways,2014-15,6,Andhra_Pradesh
+Road transport,2011-12,43561,Andhra_Pradesh
+Road transport,2012-13,53400,Andhra_Pradesh
+Road transport,2013-14,56436,Andhra_Pradesh
+Road transport,2014-15,58974,Andhra_Pradesh
+Water transport,2011-12,NA,Andhra_Pradesh
+Water transport,2012-13,NA,Andhra_Pradesh
+Water transport,2013-14,NA,Andhra_Pradesh
+Water transport,2014-15,NA,Andhra_Pradesh
+Air transport,2011-12,1999,Andhra_Pradesh
+Air transport,2012-13,3502,Andhra_Pradesh
+Air transport,2013-14,2499,Andhra_Pradesh
+Air transport,2014-15,6288,Andhra_Pradesh
+Services incidental to transport,2011-12,1816,Andhra_Pradesh
+Services incidental to transport,2012-13,2226,Andhra_Pradesh
+Services incidental to transport,2013-14,2330,Andhra_Pradesh
+Services incidental to transport,2014-15,2441,Andhra_Pradesh
+Storage,2011-12,0,Andhra_Pradesh
+Storage,2012-13,NA,Andhra_Pradesh
+Storage,2013-14,NA,Andhra_Pradesh
+Storage,2014-15,NA,Andhra_Pradesh
+Communication & services related to broadcasting,2011-12,23030,Andhra_Pradesh
+Communication & services related to broadcasting,2012-13,28124,Andhra_Pradesh
+Communication & services related to broadcasting,2013-14,36856,Andhra_Pradesh
+Communication & services related to broadcasting,2014-15,42017,Andhra_Pradesh
+Financial services,2011-12,23400,Andhra_Pradesh
+Financial services,2012-13,25705,Andhra_Pradesh
+Financial services,2013-14,28663,Andhra_Pradesh
+Financial services,2014-15,30315,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2011-12,134847,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2012-13,144304,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2013-14,152279,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2014-15,159335,Andhra_Pradesh
+Public administration,2011-12,231790,Andhra_Pradesh
+Public administration,2012-13,243900,Andhra_Pradesh
+Public administration,2013-14,252574,Andhra_Pradesh
+Public administration,2014-15,297078,Andhra_Pradesh
+Other services,2011-12,208417,Andhra_Pradesh
+Other services,2012-13,241678,Andhra_Pradesh
+Other services,2013-14,272290,Andhra_Pradesh
+Other services,2014-15,317930,Andhra_Pradesh
+"Agriculture, forestry and fishing",2011-12,282868,Andhra_Pradesh
+"Agriculture, forestry and fishing",2012-13,322670,Andhra_Pradesh
+"Agriculture, forestry and fishing",2013-14,344514,Andhra_Pradesh
+"Agriculture, forestry and fishing",2014-15,366521,Andhra_Pradesh
+"Agriculture, forestry and fishing",2015-16,401331,Andhra_Pradesh
+"Agriculture, forestry and fishing",2016-17,433602,Andhra_Pradesh
+Crops,2011-12,163103,Andhra_Pradesh
+Crops,2012-13,198591,Andhra_Pradesh
+Crops,2013-14,208494,Andhra_Pradesh
+Crops,2014-15,223330,Andhra_Pradesh
+Crops,2015-16,245122,Andhra_Pradesh
+Crops,2016-17,267849,Andhra_Pradesh
+Livestock,2011-12,59593,Andhra_Pradesh
+Livestock,2012-13,60863,Andhra_Pradesh
+Livestock,2013-14,69345,Andhra_Pradesh
+Livestock,2014-15,72442,Andhra_Pradesh
+Livestock,2015-16,75531,Andhra_Pradesh
+Livestock,2016-17,78611,Andhra_Pradesh
+Forestry and logging,2011-12,56090,Andhra_Pradesh
+Forestry and logging,2012-13,55730,Andhra_Pradesh
+Forestry and logging,2013-14,58137,Andhra_Pradesh
+Forestry and logging,2014-15,61166,Andhra_Pradesh
+Forestry and logging,2015-16,62680,Andhra_Pradesh
+Forestry and logging,2016-17,64881,Andhra_Pradesh
+Fishing and aquaculture,2011-12,4082,Andhra_Pradesh
+Fishing and aquaculture,2012-13,7486,Andhra_Pradesh
+Fishing and aquaculture,2013-14,8538,Andhra_Pradesh
+Fishing and aquaculture,2014-15,9583,Andhra_Pradesh
+Fishing and aquaculture,2015-16,17998,Andhra_Pradesh
+Fishing and aquaculture,2016-17,22261,Andhra_Pradesh
+Mining and quarrying,2011-12,139436,Andhra_Pradesh
+Mining and quarrying,2012-13,122745,Andhra_Pradesh
+Mining and quarrying,2013-14,188716,Andhra_Pradesh
+Mining and quarrying,2014-15,84529,Andhra_Pradesh
+Mining and quarrying,2015-16,86582,Andhra_Pradesh
+Mining and quarrying,2016-17,90932,Andhra_Pradesh
+Manufacturing,2011-12,464603,Andhra_Pradesh
+Manufacturing,2012-13,493214,Andhra_Pradesh
+Manufacturing,2013-14,399384,Andhra_Pradesh
+Manufacturing,2014-15,433213,Andhra_Pradesh
+Manufacturing,2015-16,484399,Andhra_Pradesh
+Manufacturing,2016-17,532284,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2011-12,45558,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2012-13,70063,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2013-14,42870,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2014-15,54473,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2015-16,57931,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2016-17,59784,Andhra_Pradesh
+Construction,2011-12,113619,Andhra_Pradesh
+Construction,2012-13,103723,Andhra_Pradesh
+Construction,2013-14,117094,Andhra_Pradesh
+Construction,2014-15,150256,Andhra_Pradesh
+Construction,2015-16,162705,Andhra_Pradesh
+Construction,2016-17,179073,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2011-12,258058,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2012-13,321598,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2013-14,374564,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2014-15,383974,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2015-16,409337,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2016-17,452787,Andhra_Pradesh
+Trade & repair services,2011-12,239040,Andhra_Pradesh
+Trade & repair services,2012-13,300758,Andhra_Pradesh
+Trade & repair services,2013-14,351794,Andhra_Pradesh
+Trade & repair services,2014-15,357727,Andhra_Pradesh
+Trade & repair services,2015-16,378937,Andhra_Pradesh
+Trade & repair services,2016-17,417559,Andhra_Pradesh
+Hotels & restaurants,2011-12,19018,Andhra_Pradesh
+Hotels & restaurants,2012-13,20840,Andhra_Pradesh
+Hotels & restaurants,2013-14,22770,Andhra_Pradesh
+Hotels & restaurants,2014-15,26247,Andhra_Pradesh
+Hotels & restaurants,2015-16,30400,Andhra_Pradesh
+Hotels & restaurants,2016-17,35228,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2011-12,95615,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2012-13,114541,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2013-14,129657,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2014-15,148189,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2015-16,173458,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2016-17,210783,Andhra_Pradesh
+Railways,2011-12,0,Andhra_Pradesh
+Railways,2012-13,0,Andhra_Pradesh
+Railways,2013-14,0,Andhra_Pradesh
+Railways,2014-15,0,Andhra_Pradesh
+Railways,2015-16,0,Andhra_Pradesh
+Railways,2016-17,0,Andhra_Pradesh
+Road transport,2011-12,70235,Andhra_Pradesh
+Road transport,2012-13,82990,Andhra_Pradesh
+Road transport,2013-14,90559,Andhra_Pradesh
+Road transport,2014-15,105783,Andhra_Pradesh
+Road transport,2015-16,125359,Andhra_Pradesh
+Road transport,2016-17,153641,Andhra_Pradesh
+Water transport,2011-12,NA,Andhra_Pradesh
+Water transport,2012-13,NA,Andhra_Pradesh
+Water transport,2013-14,NA,Andhra_Pradesh
+Water transport,2014-15,NA,Andhra_Pradesh
+Water transport,2015-16,NA,Andhra_Pradesh
+Water transport,2016-17,NA,Andhra_Pradesh
+Air transport,2011-12,325,Andhra_Pradesh
+Air transport,2012-13,605,Andhra_Pradesh
+Air transport,2013-14,525,Andhra_Pradesh
+Air transport,2014-15,1443,Andhra_Pradesh
+Air transport,2015-16,1717,Andhra_Pradesh
+Air transport,2016-17,2112,Andhra_Pradesh
+Services incidental to transport,2011-12,NA,Andhra_Pradesh
+Services incidental to transport,2012-13,NA,Andhra_Pradesh
+Services incidental to transport,2013-14,NA,Andhra_Pradesh
+Services incidental to transport,2014-15,NA,Andhra_Pradesh
+Services incidental to transport,2015-16,NA,Andhra_Pradesh
+Services incidental to transport,2016-17,NA,Andhra_Pradesh
+Storage,2011-12,288,Andhra_Pradesh
+Storage,2012-13,320,Andhra_Pradesh
+Storage,2013-14,364,Andhra_Pradesh
+Storage,2014-15,416,Andhra_Pradesh
+Storage,2015-16,474,Andhra_Pradesh
+Storage,2016-17,539,Andhra_Pradesh
+Communication & services related to broadcasting,2011-12,24767,Andhra_Pradesh
+Communication & services related to broadcasting,2012-13,30625,Andhra_Pradesh
+Communication & services related to broadcasting,2013-14,38209,Andhra_Pradesh
+Communication & services related to broadcasting,2014-15,40547,Andhra_Pradesh
+Communication & services related to broadcasting,2015-16,45908,Andhra_Pradesh
+Communication & services related to broadcasting,2016-17,54491,Andhra_Pradesh
+Financial services,2011-12,55825,Andhra_Pradesh
+Financial services,2012-13,56562,Andhra_Pradesh
+Financial services,2013-14,60604,Andhra_Pradesh
+Financial services,2014-15,64091,Andhra_Pradesh
+Financial services,2015-16,69815,Andhra_Pradesh
+Financial services,2016-17,74891,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2011-12,115443,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2012-13,127014,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2013-14,137835,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2014-15,150409,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2015-16,161674,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2016-17,175724,Andhra_Pradesh
+Public administration,2011-12,177913,Andhra_Pradesh
+Public administration,2012-13,183125,Andhra_Pradesh
+Public administration,2013-14,208108,Andhra_Pradesh
+Public administration,2014-15,239782,Andhra_Pradesh
+Public administration,2015-16,248077,Andhra_Pradesh
+Public administration,2016-17,264438,Andhra_Pradesh
+Other services,2011-12,143244,Andhra_Pradesh
+Other services,2012-13,158612,Andhra_Pradesh
+Other services,2013-14,181083,Andhra_Pradesh
+Other services,2014-15,214211,Andhra_Pradesh
+Other services,2015-16,246233,Andhra_Pradesh
+Other services,2016-17,286068,Andhra_Pradesh
+"Agriculture, forestry and fishing",2011-12,149468,Andhra_Pradesh
+"Agriculture, forestry and fishing",2012-13,161353,Andhra_Pradesh
+"Agriculture, forestry and fishing",2013-14,189886,Andhra_Pradesh
+"Agriculture, forestry and fishing",2014-15,217010,Andhra_Pradesh
+Crops,2011-12,75876,Andhra_Pradesh
+Crops,2012-13,83792,Andhra_Pradesh
+Crops,2013-14,101131,Andhra_Pradesh
+Crops,2014-15,116609,Andhra_Pradesh
+Livestock,2011-12,30336,Andhra_Pradesh
+Livestock,2012-13,30843,Andhra_Pradesh
+Livestock,2013-14,36832,Andhra_Pradesh
+Livestock,2014-15,45590,Andhra_Pradesh
+Forestry and logging,2011-12,38403,Andhra_Pradesh
+Forestry and logging,2012-13,40972,Andhra_Pradesh
+Forestry and logging,2013-14,45742,Andhra_Pradesh
+Forestry and logging,2014-15,47763,Andhra_Pradesh
+Fishing and aquaculture,2011-12,4853,Andhra_Pradesh
+Fishing and aquaculture,2012-13,5746,Andhra_Pradesh
+Fishing and aquaculture,2013-14,6181,Andhra_Pradesh
+Fishing and aquaculture,2014-15,7048,Andhra_Pradesh
+Mining and quarrying,2011-12,5073,Andhra_Pradesh
+Mining and quarrying,2012-13,4009,Andhra_Pradesh
+Mining and quarrying,2013-14,12491,Andhra_Pradesh
+Mining and quarrying,2014-15,8588,Andhra_Pradesh
+Manufacturing,2011-12,6578,Andhra_Pradesh
+Manufacturing,2012-13,7358,Andhra_Pradesh
+Manufacturing,2013-14,8329,Andhra_Pradesh
+Manufacturing,2014-15,8479,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2011-12,51024,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2012-13,61109,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2013-14,101365,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2014-15,128365,Andhra_Pradesh
+Construction,2011-12,89328,Andhra_Pradesh
+Construction,2012-13,88507,Andhra_Pradesh
+Construction,2013-14,113326,Andhra_Pradesh
+Construction,2014-15,133228,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2011-12,76482,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2012-13,96173,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2013-14,103080,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2014-15,114315,Andhra_Pradesh
+Trade & repair services,2011-12,74230,Andhra_Pradesh
+Trade & repair services,2012-13,93698,Andhra_Pradesh
+Trade & repair services,2013-14,100399,Andhra_Pradesh
+Trade & repair services,2014-15,111324,Andhra_Pradesh
+Hotels & restaurants,2011-12,2252,Andhra_Pradesh
+Hotels & restaurants,2012-13,2475,Andhra_Pradesh
+Hotels & restaurants,2013-14,2681,Andhra_Pradesh
+Hotels & restaurants,2014-15,2991,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2011-12,31917,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2012-13,38990,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2013-14,46410,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2014-15,52587,Andhra_Pradesh
+Railways,2011-12,30,Andhra_Pradesh
+Railways,2012-13,35,Andhra_Pradesh
+Railways,2013-14,33,Andhra_Pradesh
+Railways,2014-15,32,Andhra_Pradesh
+Road transport,2011-12,21376,Andhra_Pradesh
+Road transport,2012-13,25853,Andhra_Pradesh
+Road transport,2013-14,30356,Andhra_Pradesh
+Road transport,2014-15,34684,Andhra_Pradesh
+Water transport,2011-12,613,Andhra_Pradesh
+Water transport,2012-13,836,Andhra_Pradesh
+Water transport,2013-14,580,Andhra_Pradesh
+Water transport,2014-15,331,Andhra_Pradesh
+Air transport,2011-12,103,Andhra_Pradesh
+Air transport,2012-13,191,Andhra_Pradesh
+Air transport,2013-14,166,Andhra_Pradesh
+Air transport,2014-15,144,Andhra_Pradesh
+Services incidental to transport,2011-12,0,Andhra_Pradesh
+Services incidental to transport,2012-13,0,Andhra_Pradesh
+Services incidental to transport,2013-14,0,Andhra_Pradesh
+Services incidental to transport,2014-15,0,Andhra_Pradesh
+Storage,2011-12,0,Andhra_Pradesh
+Storage,2012-13,0,Andhra_Pradesh
+Storage,2013-14,0,Andhra_Pradesh
+Storage,2014-15,0,Andhra_Pradesh
+Communication & services related to broadcasting,2011-12,9795,Andhra_Pradesh
+Communication & services related to broadcasting,2012-13,12075,Andhra_Pradesh
+Communication & services related to broadcasting,2013-14,15275,Andhra_Pradesh
+Communication & services related to broadcasting,2014-15,17395,Andhra_Pradesh
+Financial services,2011-12,20053,Andhra_Pradesh
+Financial services,2012-13,19581,Andhra_Pradesh
+Financial services,2013-14,21502,Andhra_Pradesh
+Financial services,2014-15,23168,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2011-12,41471,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2012-13,46544,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2013-14,51036,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2014-15,55068,Andhra_Pradesh
+Public administration,2011-12,139286,Andhra_Pradesh
+Public administration,2012-13,170816,Andhra_Pradesh
+Public administration,2013-14,189585,Andhra_Pradesh
+Public administration,2014-15,206259,Andhra_Pradesh
+Other services,2011-12,132328,Andhra_Pradesh
+Other services,2012-13,156875,Andhra_Pradesh
+Other services,2013-14,176398,Andhra_Pradesh
+Other services,2014-15,186222,Andhra_Pradesh
+"Agriculture, forestry and fishing",2011-12,373363,Andhra_Pradesh
+"Agriculture, forestry and fishing",2012-13,450256,Andhra_Pradesh
+"Agriculture, forestry and fishing",2013-14,556609,Andhra_Pradesh
+"Agriculture, forestry and fishing",2014-15,607897,Andhra_Pradesh
+Crops,2011-12,204304,Andhra_Pradesh
+Crops,2012-13,257414,Andhra_Pradesh
+Crops,2013-14,340577,Andhra_Pradesh
+Crops,2014-15,375825,Andhra_Pradesh
+Livestock,2011-12,83147,Andhra_Pradesh
+Livestock,2012-13,102361,Andhra_Pradesh
+Livestock,2013-14,115312,Andhra_Pradesh
+Livestock,2014-15,123800,Andhra_Pradesh
+Forestry and logging,2011-12,79569,Andhra_Pradesh
+Forestry and logging,2012-13,83502,Andhra_Pradesh
+Forestry and logging,2013-14,93029,Andhra_Pradesh
+Forestry and logging,2014-15,99802,Andhra_Pradesh
+Fishing and aquaculture,2011-12,6344,Andhra_Pradesh
+Fishing and aquaculture,2012-13,6978,Andhra_Pradesh
+Fishing and aquaculture,2013-14,7690,Andhra_Pradesh
+Fishing and aquaculture,2014-15,8470,Andhra_Pradesh
+Mining and quarrying,2011-12,5660,Andhra_Pradesh
+Mining and quarrying,2012-13,6621,Andhra_Pradesh
+Mining and quarrying,2013-14,8005,Andhra_Pradesh
+Mining and quarrying,2014-15,8280,Andhra_Pradesh
+Manufacturing,2011-12,15122,Andhra_Pradesh
+Manufacturing,2012-13,19400,Andhra_Pradesh
+Manufacturing,2013-14,16831,Andhra_Pradesh
+Manufacturing,2014-15,18346,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2011-12,29524,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2012-13,33796,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2013-14,34633,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2014-15,37944,Andhra_Pradesh
+Construction,2011-12,105135,Andhra_Pradesh
+Construction,2012-13,113744,Andhra_Pradesh
+Construction,2013-14,117862,Andhra_Pradesh
+Construction,2014-15,156072,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2011-12,105152,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2012-13,124506,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2013-14,129374,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2014-15,140781,Andhra_Pradesh
+Trade & repair services,2011-12,100064,Andhra_Pradesh
+Trade & repair services,2012-13,118795,Andhra_Pradesh
+Trade & repair services,2013-14,123498,Andhra_Pradesh
+Trade & repair services,2014-15,134174,Andhra_Pradesh
+Hotels & restaurants,2011-12,5088,Andhra_Pradesh
+Hotels & restaurants,2012-13,5711,Andhra_Pradesh
+Hotels & restaurants,2013-14,5876,Andhra_Pradesh
+Hotels & restaurants,2014-15,6607,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2011-12,57815,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2012-13,63547,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2013-14,71190,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2014-15,77521,Andhra_Pradesh
+Railways,2011-12,376,Andhra_Pradesh
+Railways,2012-13,449,Andhra_Pradesh
+Railways,2013-14,285,Andhra_Pradesh
+Railways,2014-15,336,Andhra_Pradesh
+Road transport,2011-12,32072,Andhra_Pradesh
+Road transport,2012-13,36447,Andhra_Pradesh
+Road transport,2013-14,34417,Andhra_Pradesh
+Road transport,2014-15,34548,Andhra_Pradesh
+Water transport,2011-12,1319,Andhra_Pradesh
+Water transport,2012-13,690,Andhra_Pradesh
+Water transport,2013-14,466,Andhra_Pradesh
+Water transport,2014-15,600,Andhra_Pradesh
+Air transport,2011-12,937,Andhra_Pradesh
+Air transport,2012-13,1744,Andhra_Pradesh
+Air transport,2013-14,1515,Andhra_Pradesh
+Air transport,2014-15,4153,Andhra_Pradesh
+Services incidental to transport,2011-12,0,Andhra_Pradesh
+Services incidental to transport,2012-13,0,Andhra_Pradesh
+Services incidental to transport,2013-14,0,Andhra_Pradesh
+Services incidental to transport,2014-15,0,Andhra_Pradesh
+Storage,2011-12,63,Andhra_Pradesh
+Storage,2012-13,97,Andhra_Pradesh
+Storage,2013-14,80,Andhra_Pradesh
+Storage,2014-15,89,Andhra_Pradesh
+Communication & services related to broadcasting,2011-12,23049,Andhra_Pradesh
+Communication & services related to broadcasting,2012-13,24120,Andhra_Pradesh
+Communication & services related to broadcasting,2013-14,34427,Andhra_Pradesh
+Communication & services related to broadcasting,2014-15,37794,Andhra_Pradesh
+Financial services,2011-12,47701,Andhra_Pradesh
+Financial services,2012-13,53134,Andhra_Pradesh
+Financial services,2013-14,57079,Andhra_Pradesh
+Financial services,2014-15,60393,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2011-12,129296,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2012-13,139146,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2013-14,147986,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2014-15,159651,Andhra_Pradesh
+Public administration,2011-12,182188,Andhra_Pradesh
+Public administration,2012-13,195575,Andhra_Pradesh
+Public administration,2013-14,264724,Andhra_Pradesh
+Public administration,2014-15,295424,Andhra_Pradesh
+Other services,2011-12,155696,Andhra_Pradesh
+Other services,2012-13,196428,Andhra_Pradesh
+Other services,2013-14,237768,Andhra_Pradesh
+Other services,2014-15,259186,Andhra_Pradesh
+"Agriculture, forestry and fishing",2011-12,3899782,Andhra_Pradesh
+"Agriculture, forestry and fishing",2012-13,5319539,Andhra_Pradesh
+"Agriculture, forestry and fishing",2013-14,5545889,Andhra_Pradesh
+"Agriculture, forestry and fishing",2014-15,6422978,Andhra_Pradesh
+"Agriculture, forestry and fishing",2015-16,5923233,Andhra_Pradesh
+"Agriculture, forestry and fishing",2016-17,6944503,Andhra_Pradesh
+Crops,2011-12,2508626,Andhra_Pradesh
+Crops,2012-13,3688187,Andhra_Pradesh
+Crops,2013-14,3713058,Andhra_Pradesh
+Crops,2014-15,4382636,Andhra_Pradesh
+Crops,2015-16,3634239,Andhra_Pradesh
+Crops,2016-17,4435505,Andhra_Pradesh
+Livestock,2011-12,538480,Andhra_Pradesh
+Livestock,2012-13,649537,Andhra_Pradesh
+Livestock,2013-14,735973,Andhra_Pradesh
+Livestock,2014-15,788243,Andhra_Pradesh
+Livestock,2015-16,862852,Andhra_Pradesh
+Livestock,2016-17,982547,Andhra_Pradesh
+Forestry and logging,2011-12,584641,Andhra_Pradesh
+Forestry and logging,2012-13,635319,Andhra_Pradesh
+Forestry and logging,2013-14,730574,Andhra_Pradesh
+Forestry and logging,2014-15,791463,Andhra_Pradesh
+Forestry and logging,2015-16,852212,Andhra_Pradesh
+Forestry and logging,2016-17,871261,Andhra_Pradesh
+Fishing and aquaculture,2011-12,268035,Andhra_Pradesh
+Fishing and aquaculture,2012-13,346496,Andhra_Pradesh
+Fishing and aquaculture,2013-14,366283,Andhra_Pradesh
+Fishing and aquaculture,2014-15,460636,Andhra_Pradesh
+Fishing and aquaculture,2015-16,573930,Andhra_Pradesh
+Fishing and aquaculture,2016-17,655191,Andhra_Pradesh
+Mining and quarrying,2011-12,2648738,Andhra_Pradesh
+Mining and quarrying,2012-13,2663875,Andhra_Pradesh
+Mining and quarrying,2013-14,2861660,Andhra_Pradesh
+Mining and quarrying,2014-15,2586328,Andhra_Pradesh
+Mining and quarrying,2015-16,2536315,Andhra_Pradesh
+Mining and quarrying,2016-17,2565292,Andhra_Pradesh
+Manufacturing,2011-12,4116404,Andhra_Pradesh
+Manufacturing,2012-13,4212453,Andhra_Pradesh
+Manufacturing,2013-14,5168498,Andhra_Pradesh
+Manufacturing,2014-15,5754229,Andhra_Pradesh
+Manufacturing,2015-16,6084214,Andhra_Pradesh
+Manufacturing,2016-17,6369453,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2011-12,498975,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2012-13,621278,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2013-14,703664,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2014-15,833067,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2015-16,954884,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2016-17,1028710,Andhra_Pradesh
+Construction,2011-12,2059629,Andhra_Pradesh
+Construction,2012-13,2074154,Andhra_Pradesh
+Construction,2013-14,2314664,Andhra_Pradesh
+Construction,2014-15,2402396,Andhra_Pradesh
+Construction,2015-16,2595864,Andhra_Pradesh
+Construction,2016-17,2783835,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2011-12,2035854,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2012-13,2436044,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2013-14,2769620,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2014-15,3149555,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2015-16,3472581,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2016-17,3831417,Andhra_Pradesh
+Trade & repair services,2011-12,1838866,Andhra_Pradesh
+Trade & repair services,2012-13,2218946,Andhra_Pradesh
+Trade & repair services,2013-14,2533465,Andhra_Pradesh
+Trade & repair services,2014-15,2886789,Andhra_Pradesh
+Trade & repair services,2015-16,3186965,Andhra_Pradesh
+Trade & repair services,2016-17,3518412,Andhra_Pradesh
+Hotels & restaurants,2011-12,196989,Andhra_Pradesh
+Hotels & restaurants,2012-13,217098,Andhra_Pradesh
+Hotels & restaurants,2013-14,236155,Andhra_Pradesh
+Hotels & restaurants,2014-15,262766,Andhra_Pradesh
+Hotels & restaurants,2015-16,285617,Andhra_Pradesh
+Hotels & restaurants,2016-17,313005,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2011-12,1347538,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2012-13,1560857,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2013-14,1771254,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2014-15,2034016,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2015-16,2288366,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2016-17,2560875,Andhra_Pradesh
+Railways,2011-12,179466,Andhra_Pradesh
+Railways,2012-13,233719,Andhra_Pradesh
+Railways,2013-14,266785,Andhra_Pradesh
+Railways,2014-15,341494,Andhra_Pradesh
+Railways,2015-16,392608,Andhra_Pradesh
+Railways,2016-17,443594,Andhra_Pradesh
+Road transport,2011-12,693450,Andhra_Pradesh
+Road transport,2012-13,802859,Andhra_Pradesh
+Road transport,2013-14,892415,Andhra_Pradesh
+Road transport,2014-15,973144,Andhra_Pradesh
+Road transport,2015-16,1104364,Andhra_Pradesh
+Road transport,2016-17,1235376,Andhra_Pradesh
+Water transport,2011-12,41962,Andhra_Pradesh
+Water transport,2012-13,42597,Andhra_Pradesh
+Water transport,2013-14,42862,Andhra_Pradesh
+Water transport,2014-15,50349,Andhra_Pradesh
+Water transport,2015-16,50873,Andhra_Pradesh
+Water transport,2016-17,53726,Andhra_Pradesh
+Air transport,2011-12,3421,Andhra_Pradesh
+Air transport,2012-13,7232,Andhra_Pradesh
+Air transport,2013-14,5311,Andhra_Pradesh
+Air transport,2014-15,15354,Andhra_Pradesh
+Air transport,2015-16,16298,Andhra_Pradesh
+Air transport,2016-17,19684,Andhra_Pradesh
+Services incidental to transport,2011-12,80536,Andhra_Pradesh
+Services incidental to transport,2012-13,87715,Andhra_Pradesh
+Services incidental to transport,2013-14,98780,Andhra_Pradesh
+Services incidental to transport,2014-15,117469,Andhra_Pradesh
+Services incidental to transport,2015-16,121943,Andhra_Pradesh
+Services incidental to transport,2016-17,134360,Andhra_Pradesh
+Storage,2011-12,13967,Andhra_Pradesh
+Storage,2012-13,15384,Andhra_Pradesh
+Storage,2013-14,18233,Andhra_Pradesh
+Storage,2014-15,22675,Andhra_Pradesh
+Storage,2015-16,23106,Andhra_Pradesh
+Storage,2016-17,26398,Andhra_Pradesh
+Communication & services related to broadcasting,2011-12,334737,Andhra_Pradesh
+Communication & services related to broadcasting,2012-13,371354,Andhra_Pradesh
+Communication & services related to broadcasting,2013-14,446868,Andhra_Pradesh
+Communication & services related to broadcasting,2014-15,513531,Andhra_Pradesh
+Communication & services related to broadcasting,2015-16,579174,Andhra_Pradesh
+Communication & services related to broadcasting,2016-17,647737,Andhra_Pradesh
+Financial services,2011-12,796303,Andhra_Pradesh
+Financial services,2012-13,910354,Andhra_Pradesh
+Financial services,2013-14,962328,Andhra_Pradesh
+Financial services,2014-15,1065147,Andhra_Pradesh
+Financial services,2015-16,1192545,Andhra_Pradesh
+Financial services,2016-17,1269519,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2011-12,1707147,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2012-13,1901721,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2013-14,2146627,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2014-15,2348714,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2015-16,2558724,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2016-17,2830137,Andhra_Pradesh
+Public administration,2011-12,863077,Andhra_Pradesh
+Public administration,2012-13,980808,Andhra_Pradesh
+Public administration,2013-14,1390657,Andhra_Pradesh
+Public administration,2014-15,1318221,Andhra_Pradesh
+Public administration,2015-16,1333157,Andhra_Pradesh
+Public administration,2016-17,1489687,Andhra_Pradesh
+Other services,2011-12,1738239,Andhra_Pradesh
+Other services,2012-13,1892760,Andhra_Pradesh
+Other services,2013-14,1932774,Andhra_Pradesh
+Other services,2014-15,2340603,Andhra_Pradesh
+Other services,2015-16,2771634,Andhra_Pradesh
+Other services,2016-17,3197566,Andhra_Pradesh
+"Agriculture, forestry and fishing",2011-12,7816825,Andhra_Pradesh
+"Agriculture, forestry and fishing",2012-13,8373465,Andhra_Pradesh
+"Agriculture, forestry and fishing",2013-14,9030656,Andhra_Pradesh
+"Agriculture, forestry and fishing",2014-15,9285716,Andhra_Pradesh
+Crops,2011-12,5007937,Andhra_Pradesh
+Crops,2012-13,5314252,Andhra_Pradesh
+Crops,2013-14,5734357,Andhra_Pradesh
+Crops,2014-15,5690972,Andhra_Pradesh
+Livestock,2011-12,2034580,Andhra_Pradesh
+Livestock,2012-13,2222010,Andhra_Pradesh
+Livestock,2013-14,2445208,Andhra_Pradesh
+Livestock,2014-15,2638842,Andhra_Pradesh
+Forestry and logging,2011-12,715707,Andhra_Pradesh
+Forestry and logging,2012-13,769611,Andhra_Pradesh
+Forestry and logging,2013-14,758874,Andhra_Pradesh
+Forestry and logging,2014-15,848245,Andhra_Pradesh
+Fishing and aquaculture,2011-12,58601,Andhra_Pradesh
+Fishing and aquaculture,2012-13,67592,Andhra_Pradesh
+Fishing and aquaculture,2013-14,92217,Andhra_Pradesh
+Fishing and aquaculture,2014-15,107657,Andhra_Pradesh
+Mining and quarrying,2011-12,3682,Andhra_Pradesh
+Mining and quarrying,2012-13,2057,Andhra_Pradesh
+Mining and quarrying,2013-14,8707,Andhra_Pradesh
+Mining and quarrying,2014-15,10354,Andhra_Pradesh
+Manufacturing,2011-12,3750728,Andhra_Pradesh
+Manufacturing,2012-13,4067078,Andhra_Pradesh
+Manufacturing,2013-14,4419233,Andhra_Pradesh
+Manufacturing,2014-15,4790341,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2011-12,714903,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2012-13,816016,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2013-14,856238,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2014-15,911611,Andhra_Pradesh
+Construction,2011-12,1978423,Andhra_Pradesh
+Construction,2012-13,2054740,Andhra_Pradesh
+Construction,2013-14,2129015,Andhra_Pradesh
+Construction,2014-15,2202962,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2011-12,2532467,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2012-13,2993141,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2013-14,3752484,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2014-15,4419919,Andhra_Pradesh
+Trade & repair services,2011-12,2371685,Andhra_Pradesh
+Trade & repair services,2012-13,2815726,Andhra_Pradesh
+Trade & repair services,2013-14,3555016,Andhra_Pradesh
+Trade & repair services,2014-15,4201252,Andhra_Pradesh
+Hotels & restaurants,2011-12,160781,Andhra_Pradesh
+Hotels & restaurants,2012-13,177415,Andhra_Pradesh
+Hotels & restaurants,2013-14,197468,Andhra_Pradesh
+Hotels & restaurants,2014-15,218667,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2011-12,1321324,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2012-13,1540246,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2013-14,1736148,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2014-15,1951809,Andhra_Pradesh
+Railways,2011-12,190402,Andhra_Pradesh
+Railways,2012-13,228932,Andhra_Pradesh
+Railways,2013-14,215046,Andhra_Pradesh
+Railways,2014-15,233389,Andhra_Pradesh
+Road transport,2011-12,625062,Andhra_Pradesh
+Road transport,2012-13,708851,Andhra_Pradesh
+Road transport,2013-14,823463,Andhra_Pradesh
+Road transport,2014-15,928575,Andhra_Pradesh
+Water transport,2011-12,0,Andhra_Pradesh
+Water transport,2012-13,0,Andhra_Pradesh
+Water transport,2013-14,0,Andhra_Pradesh
+Water transport,2014-15,0,Andhra_Pradesh
+Air transport,2011-12,2464,Andhra_Pradesh
+Air transport,2012-13,4658,Andhra_Pradesh
+Air transport,2013-14,3967,Andhra_Pradesh
+Air transport,2014-15,4473,Andhra_Pradesh
+Services incidental to transport,2011-12,32147,Andhra_Pradesh
+Services incidental to transport,2012-13,36862,Andhra_Pradesh
+Services incidental to transport,2013-14,42676,Andhra_Pradesh
+Services incidental to transport,2014-15,48124,Andhra_Pradesh
+Storage,2011-12,48043,Andhra_Pradesh
+Storage,2012-13,91143,Andhra_Pradesh
+Storage,2013-14,64027,Andhra_Pradesh
+Storage,2014-15,76429,Andhra_Pradesh
+Communication & services related to broadcasting,2011-12,423205,Andhra_Pradesh
+Communication & services related to broadcasting,2012-13,469800,Andhra_Pradesh
+Communication & services related to broadcasting,2013-14,586969,Andhra_Pradesh
+Communication & services related to broadcasting,2014-15,660819,Andhra_Pradesh
+Financial services,2011-12,1464304,Andhra_Pradesh
+Financial services,2012-13,1655979,Andhra_Pradesh
+Financial services,2013-14,1836932,Andhra_Pradesh
+Financial services,2014-15,2057520,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2011-12,2274674,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2012-13,2574058,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2013-14,2849529,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2014-15,3142786,Andhra_Pradesh
+Public administration,2011-12,1269455,Andhra_Pradesh
+Public administration,2012-13,1486914,Andhra_Pradesh
+Public administration,2013-14,1629661,Andhra_Pradesh
+Public administration,2014-15,1842730,Andhra_Pradesh
+Other services,2011-12,2250644,Andhra_Pradesh
+Other services,2012-13,2520089,Andhra_Pradesh
+Other services,2013-14,2909626,Andhra_Pradesh
+Other services,2014-15,3303041,Andhra_Pradesh
+"Agriculture, forestry and fishing",2011-12,11910650,Andhra_Pradesh
+"Agriculture, forestry and fishing",2012-13,13572561,Andhra_Pradesh
+"Agriculture, forestry and fishing",2013-14,14418664,Andhra_Pradesh
+"Agriculture, forestry and fishing",2014-15,15044394,Andhra_Pradesh
+Crops,2011-12,7346942,Andhra_Pradesh
+Crops,2012-13,8389344,Andhra_Pradesh
+Crops,2013-14,8675414,Andhra_Pradesh
+Crops,2014-15,7673441,Andhra_Pradesh
+Livestock,2011-12,3113617,Andhra_Pradesh
+Livestock,2012-13,3523365,Andhra_Pradesh
+Livestock,2013-14,3962174,Andhra_Pradesh
+Livestock,2014-15,5356257,Andhra_Pradesh
+Forestry and logging,2011-12,1416986,Andhra_Pradesh
+Forestry and logging,2012-13,1622443,Andhra_Pradesh
+Forestry and logging,2013-14,1738606,Andhra_Pradesh
+Forestry and logging,2014-15,1956660,Andhra_Pradesh
+Fishing and aquaculture,2011-12,33105,Andhra_Pradesh
+Fishing and aquaculture,2012-13,37408,Andhra_Pradesh
+Fishing and aquaculture,2013-14,42470,Andhra_Pradesh
+Fishing and aquaculture,2014-15,58036,Andhra_Pradesh
+Mining and quarrying,2011-12,1841530,Andhra_Pradesh
+Mining and quarrying,2012-13,3395874,Andhra_Pradesh
+Mining and quarrying,2013-14,3716758,Andhra_Pradesh
+Mining and quarrying,2014-15,4069385,Andhra_Pradesh
+Manufacturing,2011-12,6666606,Andhra_Pradesh
+Manufacturing,2012-13,5627437,Andhra_Pradesh
+Manufacturing,2013-14,6015398,Andhra_Pradesh
+Manufacturing,2014-15,6552580,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2011-12,763271,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2012-13,1059921,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2013-14,979452,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2014-15,1122888,Andhra_Pradesh
+Construction,2011-12,4359171,Andhra_Pradesh
+Construction,2012-13,4568112,Andhra_Pradesh
+Construction,2013-14,4965979,Andhra_Pradesh
+Construction,2014-15,5353326,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2011-12,4374625,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2012-13,5241569,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2013-14,6201013,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2014-15,7297290,Andhra_Pradesh
+Trade & repair services,2011-12,4097894,Andhra_Pradesh
+Trade & repair services,2012-13,4943212,Andhra_Pradesh
+Trade & repair services,2013-14,5878264,Andhra_Pradesh
+Trade & repair services,2014-15,6942748,Andhra_Pradesh
+Hotels & restaurants,2011-12,276731,Andhra_Pradesh
+Hotels & restaurants,2012-13,298357,Andhra_Pradesh
+Hotels & restaurants,2013-14,322749,Andhra_Pradesh
+Hotels & restaurants,2014-15,354543,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2011-12,2312809,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2012-13,2748068,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2013-14,3300711,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2014-15,3814461,Andhra_Pradesh
+Railways,2011-12,240962,Andhra_Pradesh
+Railways,2012-13,336900,Andhra_Pradesh
+Railways,2013-14,401763,Andhra_Pradesh
+Railways,2014-15,464638,Andhra_Pradesh
+Road transport,2011-12,1410655,Andhra_Pradesh
+Road transport,2012-13,1636644,Andhra_Pradesh
+Road transport,2013-14,1906004,Andhra_Pradesh
+Road transport,2014-15,2121206,Andhra_Pradesh
+Water transport,2011-12,0,Andhra_Pradesh
+Water transport,2012-13,0,Andhra_Pradesh
+Water transport,2013-14,0,Andhra_Pradesh
+Water transport,2014-15,0,Andhra_Pradesh
+Air transport,2011-12,6698,Andhra_Pradesh
+Air transport,2012-13,12715,Andhra_Pradesh
+Air transport,2013-14,10561,Andhra_Pradesh
+Air transport,2014-15,13469,Andhra_Pradesh
+Services incidental to transport,2011-12,31956,Andhra_Pradesh
+Services incidental to transport,2012-13,37192,Andhra_Pradesh
+Services incidental to transport,2013-14,43300,Andhra_Pradesh
+Services incidental to transport,2014-15,47609,Andhra_Pradesh
+Storage,2011-12,10113,Andhra_Pradesh
+Storage,2012-13,11053,Andhra_Pradesh
+Storage,2013-14,13916,Andhra_Pradesh
+Storage,2014-15,16584,Andhra_Pradesh
+Communication & services related to broadcasting,2011-12,612425,Andhra_Pradesh
+Communication & services related to broadcasting,2012-13,713565,Andhra_Pradesh
+Communication & services related to broadcasting,2013-14,925166,Andhra_Pradesh
+Communication & services related to broadcasting,2014-15,1150955,Andhra_Pradesh
+Financial services,2011-12,1364042,Andhra_Pradesh
+Financial services,2012-13,1494592,Andhra_Pradesh
+Financial services,2013-14,1717985,Andhra_Pradesh
+Financial services,2014-15,1827413,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2011-12,4133721,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2012-13,4921093,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2013-14,5613758,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2014-15,6451997,Andhra_Pradesh
+Public administration,2011-12,1467926,Andhra_Pradesh
+Public administration,2012-13,1593519,Andhra_Pradesh
+Public administration,2013-14,2001087,Andhra_Pradesh
+Public administration,2014-15,2460364,Andhra_Pradesh
+Other services,2011-12,2481856,Andhra_Pradesh
+Other services,2012-13,2892295,Andhra_Pradesh
+Other services,2013-14,3357215,Andhra_Pradesh
+Other services,2014-15,4164287,Andhra_Pradesh
+"Agriculture, forestry and fishing",2011-12,90137,Andhra_Pradesh
+"Agriculture, forestry and fishing",2012-13,108278,Andhra_Pradesh
+"Agriculture, forestry and fishing",2013-14,122419,Andhra_Pradesh
+"Agriculture, forestry and fishing",2014-15,137447,Andhra_Pradesh
+"Agriculture, forestry and fishing",2015-16,159217,Andhra_Pradesh
+Crops,2011-12,78207,Andhra_Pradesh
+Crops,2012-13,94942,Andhra_Pradesh
+Crops,2013-14,104440,Andhra_Pradesh
+Crops,2014-15,114976,Andhra_Pradesh
+Crops,2015-16,130878,Andhra_Pradesh
+Livestock,2011-12,7627,Andhra_Pradesh
+Livestock,2012-13,8747,Andhra_Pradesh
+Livestock,2013-14,12986,Andhra_Pradesh
+Livestock,2014-15,17338,Andhra_Pradesh
+Livestock,2015-16,22925,Andhra_Pradesh
+Forestry and logging,2011-12,4017,Andhra_Pradesh
+Forestry and logging,2012-13,4137,Andhra_Pradesh
+Forestry and logging,2013-14,4471,Andhra_Pradesh
+Forestry and logging,2014-15,4529,Andhra_Pradesh
+Forestry and logging,2015-16,4715,Andhra_Pradesh
+Fishing and aquaculture,2011-12,287,Andhra_Pradesh
+Fishing and aquaculture,2012-13,452,Andhra_Pradesh
+Fishing and aquaculture,2013-14,523,Andhra_Pradesh
+Fishing and aquaculture,2014-15,604,Andhra_Pradesh
+Fishing and aquaculture,2015-16,699,Andhra_Pradesh
+Mining and quarrying,2011-12,800,Andhra_Pradesh
+Mining and quarrying,2012-13,896,Andhra_Pradesh
+Mining and quarrying,2013-14,1238,Andhra_Pradesh
+Mining and quarrying,2014-15,1329,Andhra_Pradesh
+Mining and quarrying,2015-16,1584,Andhra_Pradesh
+Manufacturing,2011-12,430623,Andhra_Pradesh
+Manufacturing,2012-13,462562,Andhra_Pradesh
+Manufacturing,2013-14,526856,Andhra_Pradesh
+Manufacturing,2014-15,550697,Andhra_Pradesh
+Manufacturing,2015-16,583579,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2011-12,186623,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2012-13,183906,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2013-14,184113,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2014-15,212499,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2015-16,222468,Andhra_Pradesh
+Construction,2011-12,67095,Andhra_Pradesh
+Construction,2012-13,67755,Andhra_Pradesh
+Construction,2013-14,75613,Andhra_Pradesh
+Construction,2014-15,82058,Andhra_Pradesh
+Construction,2015-16,87830,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2011-12,31446,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2012-13,54858,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2013-14,69953,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2014-15,70568,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2015-16,80587,Andhra_Pradesh
+Trade & repair services,2011-12,26677,Andhra_Pradesh
+Trade & repair services,2012-13,49790,Andhra_Pradesh
+Trade & repair services,2013-14,64502,Andhra_Pradesh
+Trade & repair services,2014-15,64624,Andhra_Pradesh
+Trade & repair services,2015-16,73799,Andhra_Pradesh
+Hotels & restaurants,2011-12,4769,Andhra_Pradesh
+Hotels & restaurants,2012-13,5069,Andhra_Pradesh
+Hotels & restaurants,2013-14,5450,Andhra_Pradesh
+Hotels & restaurants,2014-15,5945,Andhra_Pradesh
+Hotels & restaurants,2015-16,6789,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2011-12,28365,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2012-13,36020,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2013-14,42349,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2014-15,47347,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2015-16,56397,Andhra_Pradesh
+Railways,2011-12,0,Andhra_Pradesh
+Railways,2012-13,0,Andhra_Pradesh
+Railways,2013-14,0,Andhra_Pradesh
+Railways,2014-15,0,Andhra_Pradesh
+Railways,2015-16,0,Andhra_Pradesh
+Road transport,2011-12,21351,Andhra_Pradesh
+Road transport,2012-13,28414,Andhra_Pradesh
+Road transport,2013-14,31829,Andhra_Pradesh
+Road transport,2014-15,35283,Andhra_Pradesh
+Road transport,2015-16,41863,Andhra_Pradesh
+Water transport,2011-12,0,Andhra_Pradesh
+Water transport,2012-13,0,Andhra_Pradesh
+Water transport,2013-14,0,Andhra_Pradesh
+Water transport,2014-15,0,Andhra_Pradesh
+Water transport,2015-16,0,Andhra_Pradesh
+Air transport,2011-12,0,Andhra_Pradesh
+Air transport,2012-13,0,Andhra_Pradesh
+Air transport,2013-14,0,Andhra_Pradesh
+Air transport,2014-15,0,Andhra_Pradesh
+Air transport,2015-16,0,Andhra_Pradesh
+Services incidental to transport,2011-12,0,Andhra_Pradesh
+Services incidental to transport,2012-13,0,Andhra_Pradesh
+Services incidental to transport,2013-14,0,Andhra_Pradesh
+Services incidental to transport,2014-15,0,Andhra_Pradesh
+Services incidental to transport,2015-16,0,Andhra_Pradesh
+Storage,2011-12,0,Andhra_Pradesh
+Storage,2012-13,0,Andhra_Pradesh
+Storage,2013-14,0,Andhra_Pradesh
+Storage,2014-15,0,Andhra_Pradesh
+Storage,2015-16,0,Andhra_Pradesh
+Communication & services related to broadcasting,2011-12,7014,Andhra_Pradesh
+Communication & services related to broadcasting,2012-13,7606,Andhra_Pradesh
+Communication & services related to broadcasting,2013-14,10520,Andhra_Pradesh
+Communication & services related to broadcasting,2014-15,12064,Andhra_Pradesh
+Communication & services related to broadcasting,2015-16,14534,Andhra_Pradesh
+Financial services,2011-12,16521,Andhra_Pradesh
+Financial services,2012-13,17692,Andhra_Pradesh
+Financial services,2013-14,19924,Andhra_Pradesh
+Financial services,2014-15,21079,Andhra_Pradesh
+Financial services,2015-16,22871,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2011-12,58394,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2012-13,63935,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2013-14,68702,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2014-15,75330,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2015-16,82007,Andhra_Pradesh
+Public administration,2011-12,74027,Andhra_Pradesh
+Public administration,2012-13,85145,Andhra_Pradesh
+Public administration,2013-14,94138,Andhra_Pradesh
+Public administration,2014-15,119514,Andhra_Pradesh
+Public administration,2015-16,140444,Andhra_Pradesh
+Other services,2011-12,105179,Andhra_Pradesh
+Other services,2012-13,115696,Andhra_Pradesh
+Other services,2013-14,126386,Andhra_Pradesh
+Other services,2014-15,149265,Andhra_Pradesh
+Other services,2015-16,167844,Andhra_Pradesh
+"Agriculture, forestry and fishing",2011-12,8773221,Andhra_Pradesh
+"Agriculture, forestry and fishing",2012-13,8439666,Andhra_Pradesh
+"Agriculture, forestry and fishing",2013-14,10867130,Andhra_Pradesh
+"Agriculture, forestry and fishing",2014-15,13064238,Andhra_Pradesh
+"Agriculture, forestry and fishing",2015-16,13143892,Andhra_Pradesh
+"Agriculture, forestry and fishing",2016-17,13707951,Andhra_Pradesh
+Crops,2011-12,5375639,Andhra_Pradesh
+Crops,2012-13,4696306,Andhra_Pradesh
+Crops,2013-14,6294046,Andhra_Pradesh
+Crops,2014-15,7297820,Andhra_Pradesh
+Crops,2015-16,7280028,Andhra_Pradesh
+Crops,2016-17,7557588,Andhra_Pradesh
+Livestock,2011-12,2617944,Andhra_Pradesh
+Livestock,2012-13,2972027,Andhra_Pradesh
+Livestock,2013-14,3738883,Andhra_Pradesh
+Livestock,2014-15,4693361,Andhra_Pradesh
+Livestock,2015-16,4765971,Andhra_Pradesh
+Livestock,2016-17,4995138,Andhra_Pradesh
+Forestry and logging,2011-12,355528,Andhra_Pradesh
+Forestry and logging,2012-13,338087,Andhra_Pradesh
+Forestry and logging,2013-14,399307,Andhra_Pradesh
+Forestry and logging,2014-15,392705,Andhra_Pradesh
+Forestry and logging,2015-16,415952,Andhra_Pradesh
+Forestry and logging,2016-17,434416,Andhra_Pradesh
+Fishing and aquaculture,2011-12,424110,Andhra_Pradesh
+Fishing and aquaculture,2012-13,433247,Andhra_Pradesh
+Fishing and aquaculture,2013-14,434895,Andhra_Pradesh
+Fishing and aquaculture,2014-15,680352,Andhra_Pradesh
+Fishing and aquaculture,2015-16,681941,Andhra_Pradesh
+Fishing and aquaculture,2016-17,720809,Andhra_Pradesh
+Mining and quarrying,2011-12,326843,Andhra_Pradesh
+Mining and quarrying,2012-13,317889,Andhra_Pradesh
+Mining and quarrying,2013-14,318743,Andhra_Pradesh
+Mining and quarrying,2014-15,265536,Andhra_Pradesh
+Mining and quarrying,2015-16,261638,Andhra_Pradesh
+Mining and quarrying,2016-17,276321,Andhra_Pradesh
+Manufacturing,2011-12,15176801,Andhra_Pradesh
+Manufacturing,2012-13,17826090,Andhra_Pradesh
+Manufacturing,2013-14,18137892,Andhra_Pradesh
+Manufacturing,2014-15,18914794,Andhra_Pradesh
+Manufacturing,2015-16,20142365,Andhra_Pradesh
+Manufacturing,2016-17,21026591,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2011-12,795604,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2012-13,1267240,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2013-14,1303592,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2014-15,1710379,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2015-16,2073838,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2016-17,2336516,Andhra_Pradesh
+Construction,2011-12,9247221,Andhra_Pradesh
+Construction,2012-13,10235650,Andhra_Pradesh
+Construction,2013-14,11418102,Andhra_Pradesh
+Construction,2014-15,12216718,Andhra_Pradesh
+Construction,2015-16,13395808,Andhra_Pradesh
+Construction,2016-17,14533745,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2011-12,7930219,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2012-13,9691628,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2013-14,11344765,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2014-15,12895842,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2015-16,14567728,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2016-17,15372472,Andhra_Pradesh
+Trade & repair services,2011-12,6893400,Andhra_Pradesh
+Trade & repair services,2012-13,8505165,Andhra_Pradesh
+Trade & repair services,2013-14,9967754,Andhra_Pradesh
+Trade & repair services,2014-15,11252588,Andhra_Pradesh
+Trade & repair services,2015-16,12593468,Andhra_Pradesh
+Trade & repair services,2016-17,13171329,Andhra_Pradesh
+Hotels & restaurants,2011-12,1036819,Andhra_Pradesh
+Hotels & restaurants,2012-13,1186463,Andhra_Pradesh
+Hotels & restaurants,2013-14,1377011,Andhra_Pradesh
+Hotels & restaurants,2014-15,1643253,Andhra_Pradesh
+Hotels & restaurants,2015-16,1974260,Andhra_Pradesh
+Hotels & restaurants,2016-17,2201143,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2011-12,5337904,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2012-13,6145938,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2013-14,6726593,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2014-15,7188320,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2015-16,8008838,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2016-17,8780319,Andhra_Pradesh
+Railways,2011-12,316026,Andhra_Pradesh
+Railways,2012-13,370416,Andhra_Pradesh
+Railways,2013-14,401984,Andhra_Pradesh
+Railways,2014-15,468553,Andhra_Pradesh
+Railways,2015-16,548315,Andhra_Pradesh
+Railways,2016-17,581276,Andhra_Pradesh
+Road transport,2011-12,2866546,Andhra_Pradesh
+Road transport,2012-13,3309408,Andhra_Pradesh
+Road transport,2013-14,3581990,Andhra_Pradesh
+Road transport,2014-15,3660994,Andhra_Pradesh
+Road transport,2015-16,3851117,Andhra_Pradesh
+Road transport,2016-17,3978671,Andhra_Pradesh
+Water transport,2011-12,66379,Andhra_Pradesh
+Water transport,2012-13,62574,Andhra_Pradesh
+Water transport,2013-14,59573,Andhra_Pradesh
+Water transport,2014-15,70414,Andhra_Pradesh
+Water transport,2015-16,83962,Andhra_Pradesh
+Water transport,2016-17,100526,Andhra_Pradesh
+Air transport,2011-12,43317,Andhra_Pradesh
+Air transport,2012-13,80632,Andhra_Pradesh
+Air transport,2013-14,62921,Andhra_Pradesh
+Air transport,2014-15,180836,Andhra_Pradesh
+Air transport,2015-16,339750,Andhra_Pradesh
+Air transport,2016-17,492323,Andhra_Pradesh
+Services incidental to transport*,2011-12,822307,Andhra_Pradesh
+Services incidental to transport*,2012-13,951481,Andhra_Pradesh
+Services incidental to transport*,2013-14,939475,Andhra_Pradesh
+Services incidental to transport*,2014-15,864407,Andhra_Pradesh
+Services incidental to transport*,2015-16,980474,Andhra_Pradesh
+Services incidental to transport*,2016-17,1113679,Andhra_Pradesh
+Storage,2011-12,26961,Andhra_Pradesh
+Storage,2012-13,28773,Andhra_Pradesh
+Storage,2013-14,33162,Andhra_Pradesh
+Storage,2014-15,39834,Andhra_Pradesh
+Storage,2015-16,48814,Andhra_Pradesh
+Storage,2016-17,60273,Andhra_Pradesh
+Communication & services related to broadcasting,2011-12,1196369,Andhra_Pradesh
+Communication & services related to broadcasting,2012-13,1342653,Andhra_Pradesh
+Communication & services related to broadcasting,2013-14,1647489,Andhra_Pradesh
+Communication & services related to broadcasting,2014-15,1903283,Andhra_Pradesh
+Communication & services related to broadcasting,2015-16,2156406,Andhra_Pradesh
+Communication & services related to broadcasting,2016-17,2453571,Andhra_Pradesh
+Financial services,2011-12,4019599,Andhra_Pradesh
+Financial services,2012-13,4466210,Andhra_Pradesh
+Financial services,2013-14,5088062,Andhra_Pradesh
+Financial services,2014-15,5598498,Andhra_Pradesh
+Financial services,2015-16,5990393,Andhra_Pradesh
+Financial services,2016-17,6849037,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2011-12,10253371,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2012-13,12096018,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2013-14,14291455,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2014-15,16830213,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2015-16,19831868,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2016-17,23022995,Andhra_Pradesh
+Public administration,2011-12,2598408,Andhra_Pradesh
+Public administration,2012-13,2572501,Andhra_Pradesh
+Public administration,2013-14,2962600,Andhra_Pradesh
+Public administration,2014-15,3400800,Andhra_Pradesh
+Public administration,2015-16,3728920,Andhra_Pradesh
+Public administration,2016-17,4561182,Andhra_Pradesh
+Other services,2011-12,4842953,Andhra_Pradesh
+Other services,2012-13,5483888,Andhra_Pradesh
+Other services,2013-14,6378431,Andhra_Pradesh
+Other services,2014-15,7430115,Andhra_Pradesh
+Other services,2015-16,8569379,Andhra_Pradesh
+Other services,2016-17,9858347,Andhra_Pradesh
+"Agriculture, forestry and fishing",2011-12,5461488,Andhra_Pradesh
+"Agriculture, forestry and fishing",2012-13,6726490,Andhra_Pradesh
+"Agriculture, forestry and fishing",2013-14,7723553,Andhra_Pradesh
+"Agriculture, forestry and fishing",2014-15,7591501,Andhra_Pradesh
+"Agriculture, forestry and fishing",2015-16,7755281,Andhra_Pradesh
+"Agriculture, forestry and fishing",2016-17,9216180,Andhra_Pradesh
+Crops,2011-12,3236819,Andhra_Pradesh
+Crops,2012-13,4057031,Andhra_Pradesh
+Crops,2013-14,4715888,Andhra_Pradesh
+Crops,2014-15,4162493,Andhra_Pradesh
+Crops,2015-16,3867873,Andhra_Pradesh
+Crops,2016-17,4885862,Andhra_Pradesh
+Livestock,2011-12,1884801,Andhra_Pradesh
+Livestock,2012-13,2278539,Andhra_Pradesh
+Livestock,2013-14,2539923,Andhra_Pradesh
+Livestock,2014-15,2951299,Andhra_Pradesh
+Livestock,2015-16,3436285,Andhra_Pradesh
+Livestock,2016-17,3852198,Andhra_Pradesh
+Forestry and logging,2011-12,191725,Andhra_Pradesh
+Forestry and logging,2012-13,207059,Andhra_Pradesh
+Forestry and logging,2013-14,218021,Andhra_Pradesh
+Forestry and logging,2014-15,210741,Andhra_Pradesh
+Forestry and logging,2015-16,213338,Andhra_Pradesh
+Forestry and logging,2016-17,210850,Andhra_Pradesh
+Fishing and aquaculture,2011-12,148143,Andhra_Pradesh
+Fishing and aquaculture,2012-13,183861,Andhra_Pradesh
+Fishing and aquaculture,2013-14,249721,Andhra_Pradesh
+Fishing and aquaculture,2014-15,266968,Andhra_Pradesh
+Fishing and aquaculture,2015-16,237785,Andhra_Pradesh
+Fishing and aquaculture,2016-17,267270,Andhra_Pradesh
+Mining and quarrying,2011-12,1106109,Andhra_Pradesh
+Mining and quarrying,2012-13,1268476,Andhra_Pradesh
+Mining and quarrying,2013-14,1238555,Andhra_Pradesh
+Mining and quarrying,2014-15,1541853,Andhra_Pradesh
+Mining and quarrying,2015-16,1723849,Andhra_Pradesh
+Mining and quarrying,2016-17,1889245,Andhra_Pradesh
+Manufacturing,2011-12,6215158,Andhra_Pradesh
+Manufacturing,2012-13,5543115,Andhra_Pradesh
+Manufacturing,2013-14,5714839,Andhra_Pradesh
+Manufacturing,2014-15,6353711,Andhra_Pradesh
+Manufacturing,2015-16,6677750,Andhra_Pradesh
+Manufacturing,2016-17,7323500,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2011-12,783505,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2012-13,589605,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2013-14,870938,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2014-15,716266,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2015-16,661426,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2016-17,666068,Andhra_Pradesh
+Construction,2011-12,2278975,Andhra_Pradesh
+Construction,2012-13,2357786,Andhra_Pradesh
+Construction,2013-14,2458242,Andhra_Pradesh
+Construction,2014-15,2854024,Andhra_Pradesh
+Construction,2015-16,3030401,Andhra_Pradesh
+Construction,2016-17,3395388,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2011-12,3747813,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2012-13,4454669,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2013-14,5127458,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2014-15,6494607,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2015-16,7481535,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2016-17,8786776,Andhra_Pradesh
+Trade & repair services,2011-12,3048685,Andhra_Pradesh
+Trade & repair services,2012-13,3647224,Andhra_Pradesh
+Trade & repair services,2013-14,4456270,Andhra_Pradesh
+Trade & repair services,2014-15,5724128,Andhra_Pradesh
+Trade & repair services,2015-16,6634722,Andhra_Pradesh
+Trade & repair services,2016-17,7841875,Andhra_Pradesh
+Hotels & restaurants,2011-12,699128,Andhra_Pradesh
+Hotels & restaurants,2012-13,807445,Andhra_Pradesh
+Hotels & restaurants,2013-14,671188,Andhra_Pradesh
+Hotels & restaurants,2014-15,770479,Andhra_Pradesh
+Hotels & restaurants,2015-16,846813,Andhra_Pradesh
+Hotels & restaurants,2016-17,944901,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2011-12,2531735,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2012-13,2987019,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2013-14,3229811,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2014-15,3604741,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2015-16,4182002,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2016-17,4895352,Andhra_Pradesh
+Railways,2011-12,161363,Andhra_Pradesh
+Railways,2012-13,175620,Andhra_Pradesh
+Railways,2013-14,193048,Andhra_Pradesh
+Railways,2014-15,199686,Andhra_Pradesh
+Railways,2015-16,205940,Andhra_Pradesh
+Railways,2016-17,208823,Andhra_Pradesh
+Road transport,2011-12,1461278,Andhra_Pradesh
+Road transport,2012-13,1715757,Andhra_Pradesh
+Road transport,2013-14,1869092,Andhra_Pradesh
+Road transport,2014-15,2055658,Andhra_Pradesh
+Road transport,2015-16,2418848,Andhra_Pradesh
+Road transport,2016-17,2863507,Andhra_Pradesh
+Water transport,2011-12,0,Andhra_Pradesh
+Water transport,2012-13,0,Andhra_Pradesh
+Water transport,2013-14,0,Andhra_Pradesh
+Water transport,2014-15,0,Andhra_Pradesh
+Water transport,2015-16,0,Andhra_Pradesh
+Water transport,2016-17,0,Andhra_Pradesh
+Air transport,2011-12,23258,Andhra_Pradesh
+Air transport,2012-13,43171,Andhra_Pradesh
+Air transport,2013-14,34506,Andhra_Pradesh
+Air transport,2014-15,120691,Andhra_Pradesh
+Air transport,2015-16,158647,Andhra_Pradesh
+Air transport,2016-17,217072,Andhra_Pradesh
+Services incidental to transport,2011-12,371763,Andhra_Pradesh
+Services incidental to transport,2012-13,484436,Andhra_Pradesh
+Services incidental to transport,2013-14,447736,Andhra_Pradesh
+Services incidental to transport,2014-15,454909,Andhra_Pradesh
+Services incidental to transport,2015-16,513777,Andhra_Pradesh
+Services incidental to transport,2016-17,593688,Andhra_Pradesh
+Storage,2011-12,17531,Andhra_Pradesh
+Storage,2012-13,15328,Andhra_Pradesh
+Storage,2013-14,17085,Andhra_Pradesh
+Storage,2014-15,19805,Andhra_Pradesh
+Storage,2015-16,24206,Andhra_Pradesh
+Storage,2016-17,28510,Andhra_Pradesh
+Communication & services related to broadcasting,2011-12,496542,Andhra_Pradesh
+Communication & services related to broadcasting,2012-13,552707,Andhra_Pradesh
+Communication & services related to broadcasting,2013-14,668344,Andhra_Pradesh
+Communication & services related to broadcasting,2014-15,753992,Andhra_Pradesh
+Communication & services related to broadcasting,2015-16,860584,Andhra_Pradesh
+Communication & services related to broadcasting,2016-17,983752,Andhra_Pradesh
+Financial services,2011-12,2126507,Andhra_Pradesh
+Financial services,2012-13,2363216,Andhra_Pradesh
+Financial services,2013-14,2659553,Andhra_Pradesh
+Financial services,2014-15,3023729,Andhra_Pradesh
+Financial services,2015-16,3312302,Andhra_Pradesh
+Financial services,2016-17,3700835,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2011-12,5551356,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2012-13,6924491,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2013-14,8230664,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2014-15,9478839,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2015-16,10903589,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2016-17,12506017,Andhra_Pradesh
+Public administration,2011-12,1131292,Andhra_Pradesh
+Public administration,2012-13,1265964,Andhra_Pradesh
+Public administration,2013-14,1433832,Andhra_Pradesh
+Public administration,2014-15,1711265,Andhra_Pradesh
+Public administration,2015-16,2061873,Andhra_Pradesh
+Public administration,2016-17,2244545,Andhra_Pradesh
+Other services,2011-12,2670927,Andhra_Pradesh
+Other services,2012-13,3035381,Andhra_Pradesh
+Other services,2013-14,3546015,Andhra_Pradesh
+Other services,2014-15,4158229,Andhra_Pradesh
+Other services,2015-16,4848041,Andhra_Pradesh
+Other services,2016-17,5442671,Andhra_Pradesh
+"Agriculture, forestry and fishing",2011-12,511201,Andhra_Pradesh
+"Agriculture, forestry and fishing",2012-13,567087,Andhra_Pradesh
+"Agriculture, forestry and fishing",2013-14,702979,Andhra_Pradesh
+"Agriculture, forestry and fishing",2014-15,799825,Andhra_Pradesh
+Crops,2011-12,318959,Andhra_Pradesh
+Crops,2012-13,339064,Andhra_Pradesh
+Crops,2013-14,375086,Andhra_Pradesh
+Crops,2014-15,397591,Andhra_Pradesh
+Livestock,2011-12,33664,Andhra_Pradesh
+Livestock,2012-13,42223,Andhra_Pradesh
+Livestock,2013-14,70541,Andhra_Pradesh
+Livestock,2014-15,88176,Andhra_Pradesh
+Forestry and logging,2011-12,109763,Andhra_Pradesh
+Forestry and logging,2012-13,119262,Andhra_Pradesh
+Forestry and logging,2013-14,133116,Andhra_Pradesh
+Forestry and logging,2014-15,145096,Andhra_Pradesh
+Fishing and aquaculture,2011-12,48815,Andhra_Pradesh
+Fishing and aquaculture,2012-13,66538,Andhra_Pradesh
+Fishing and aquaculture,2013-14,124236,Andhra_Pradesh
+Fishing and aquaculture,2014-15,168961,Andhra_Pradesh
+Mining and quarrying,2011-12,118123,Andhra_Pradesh
+Mining and quarrying,2012-13,128413,Andhra_Pradesh
+Mining and quarrying,2013-14,130634,Andhra_Pradesh
+Mining and quarrying,2014-15,142391,Andhra_Pradesh
+Manufacturing,2011-12,72651,Andhra_Pradesh
+Manufacturing,2012-13,117529,Andhra_Pradesh
+Manufacturing,2013-14,125869,Andhra_Pradesh
+Manufacturing,2014-15,228625,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2011-12,44297,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2012-13,55855,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2013-14,55022,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2014-15,77870,Andhra_Pradesh
+Construction,2011-12,148327,Andhra_Pradesh
+Construction,2012-13,151630,Andhra_Pradesh
+Construction,2013-14,174411,Andhra_Pradesh
+Construction,2014-15,177899,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2011-12,226839,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2012-13,265292,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2013-14,333695,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2014-15,390423,Andhra_Pradesh
+Trade & repair services,2011-12,226839,Andhra_Pradesh
+Trade & repair services,2012-13,265292,Andhra_Pradesh
+Trade & repair services,2013-14,333695,Andhra_Pradesh
+Trade & repair services,2014-15,390423,Andhra_Pradesh
+Hotels & restaurants,2011-12,NA,Andhra_Pradesh
+Hotels & restaurants,2012-13,NA,Andhra_Pradesh
+Hotels & restaurants,2013-14,NA,Andhra_Pradesh
+Hotels & restaurants,2014-15,NA,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2011-12,84316,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2012-13,108895,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2013-14,121265,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2014-15,155956,Andhra_Pradesh
+Railways,2011-12,224,Andhra_Pradesh
+Railways,2012-13,261,Andhra_Pradesh
+Railways,2013-14,261,Andhra_Pradesh
+Railways,2014-15,305,Andhra_Pradesh
+Road transport,2011-12,NA,Andhra_Pradesh
+Road transport,2012-13,NA,Andhra_Pradesh
+Road transport,2013-14,NA,Andhra_Pradesh
+Road transport,2014-15,NA,Andhra_Pradesh
+Water transport,2011-12,NA,Andhra_Pradesh
+Water transport,2012-13,NA,Andhra_Pradesh
+Water transport,2013-14,NA,Andhra_Pradesh
+Water transport,2014-15,NA,Andhra_Pradesh
+Air transport,2011-12,NA,Andhra_Pradesh
+Air transport,2012-13,NA,Andhra_Pradesh
+Air transport,2013-14,NA,Andhra_Pradesh
+Air transport,2014-15,NA,Andhra_Pradesh
+Services incidental to transport*,2011-12,46677,Andhra_Pradesh
+Services incidental to transport*,2012-13,63696,Andhra_Pradesh
+Services incidental to transport*,2013-14,65236,Andhra_Pradesh
+Services incidental to transport*,2014-15,88721,Andhra_Pradesh
+Storage,2011-12,151,Andhra_Pradesh
+Storage,2012-13,187,Andhra_Pradesh
+Storage,2013-14,205,Andhra_Pradesh
+Storage,2014-15,254,Andhra_Pradesh
+Communication & services related to broadcasting,2011-12,37264,Andhra_Pradesh
+Communication & services related to broadcasting,2012-13,44751,Andhra_Pradesh
+Communication & services related to broadcasting,2013-14,55563,Andhra_Pradesh
+Communication & services related to broadcasting,2014-15,66676,Andhra_Pradesh
+Financial services,2011-12,57103,Andhra_Pradesh
+Financial services,2012-13,67963,Andhra_Pradesh
+Financial services,2013-14,72348,Andhra_Pradesh
+Financial services,2014-15,86094,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2011-12,119572,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2012-13,135500,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2013-14,168765,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2014-15,190704,Andhra_Pradesh
+Public administration,2011-12,241678,Andhra_Pradesh
+Public administration,2012-13,270564,Andhra_Pradesh
+Public administration,2013-14,302004,Andhra_Pradesh
+Public administration,2014-15,338244,Andhra_Pradesh
+Other services,2011-12,255446,Andhra_Pradesh
+Other services,2012-13,260210,Andhra_Pradesh
+Other services,2013-14,316948,Andhra_Pradesh
+Other services,2014-15,323287,Andhra_Pradesh
+"Agriculture, forestry and fishing",2011-12,18324305,Andhra_Pradesh
+"Agriculture, forestry and fishing",2012-13,21306497,Andhra_Pradesh
+"Agriculture, forestry and fishing",2013-14,23813650,Andhra_Pradesh
+"Agriculture, forestry and fishing",2014-15,25097754,Andhra_Pradesh
+"Agriculture, forestry and fishing",2015-16,28212490,Andhra_Pradesh
+Crops,2011-12,12415418,Andhra_Pradesh
+Crops,2012-13,14951864,Andhra_Pradesh
+Crops,2013-14,16249998,Andhra_Pradesh
+Crops,2014-15,16215212,Andhra_Pradesh
+Crops,2015-16,18242114,Andhra_Pradesh
+Livestock,2011-12,4382274,Andhra_Pradesh
+Livestock,2012-13,4687592,Andhra_Pradesh
+Livestock,2013-14,5908922,Andhra_Pradesh
+Livestock,2014-15,7096876,Andhra_Pradesh
+Livestock,2015-16,8233666,Andhra_Pradesh
+Forestry and logging,2011-12,1249516,Andhra_Pradesh
+Forestry and logging,2012-13,1358583,Andhra_Pradesh
+Forestry and logging,2013-14,1312393,Andhra_Pradesh
+Forestry and logging,2014-15,1404936,Andhra_Pradesh
+Forestry and logging,2015-16,1330196,Andhra_Pradesh
+Fishing and aquaculture,2011-12,277097,Andhra_Pradesh
+Fishing and aquaculture,2012-13,308458,Andhra_Pradesh
+Fishing and aquaculture,2013-14,342337,Andhra_Pradesh
+Fishing and aquaculture,2014-15,380730,Andhra_Pradesh
+Fishing and aquaculture,2015-16,406514,Andhra_Pradesh
+Mining and quarrying,2011-12,653517,Andhra_Pradesh
+Mining and quarrying,2012-13,688795,Andhra_Pradesh
+Mining and quarrying,2013-14,868920,Andhra_Pradesh
+Mining and quarrying,2014-15,901501,Andhra_Pradesh
+Mining and quarrying,2015-16,783973,Andhra_Pradesh
+Manufacturing,2011-12,8763582,Andhra_Pradesh
+Manufacturing,2012-13,9522404,Andhra_Pradesh
+Manufacturing,2013-14,11377466,Andhra_Pradesh
+Manufacturing,2014-15,12261649,Andhra_Pradesh
+Manufacturing,2015-16,13604096,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2011-12,926846,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2012-13,1228906,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2013-14,1663539,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2014-15,2030625,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2015-16,2152779,Andhra_Pradesh
+Construction,2011-12,8487701,Andhra_Pradesh
+Construction,2012-13,9320623,Andhra_Pradesh
+Construction,2013-14,10048635,Andhra_Pradesh
+Construction,2014-15,11256450,Andhra_Pradesh
+Construction,2015-16,12225841,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2011-12,6946589,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2012-13,7472500,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2013-14,8713200,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2014-15,9437243,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2015-16,10603082,Andhra_Pradesh
+Trade & repair services,2011-12,6162196,Andhra_Pradesh
+Trade & repair services,2012-13,6641138,Andhra_Pradesh
+Trade & repair services,2013-14,7723813,Andhra_Pradesh
+Trade & repair services,2014-15,8476139,Andhra_Pradesh
+Trade & repair services,2015-16,9523247,Andhra_Pradesh
+Hotels & restaurants,2011-12,784393,Andhra_Pradesh
+Hotels & restaurants,2012-13,831362,Andhra_Pradesh
+Hotels & restaurants,2013-14,989387,Andhra_Pradesh
+Hotels & restaurants,2014-15,961104,Andhra_Pradesh
+Hotels & restaurants,2015-16,1079835,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2011-12,4048142,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2012-13,4919874,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2013-14,6102126,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2014-15,7404509,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2015-16,8079924,Andhra_Pradesh
+Railways,2011-12,1066108,Andhra_Pradesh
+Railways,2012-13,1227911,Andhra_Pradesh
+Railways,2013-14,1398344,Andhra_Pradesh
+Railways,2014-15,1618742,Andhra_Pradesh
+Railways,2015-16,1534567,Andhra_Pradesh
+Road transport,2011-12,1976901,Andhra_Pradesh
+Road transport,2012-13,2477770,Andhra_Pradesh
+Road transport,2013-14,2885934,Andhra_Pradesh
+Road transport,2014-15,3645747,Andhra_Pradesh
+Road transport,2015-16,4269516,Andhra_Pradesh
+Water transport,2011-12,1496,Andhra_Pradesh
+Water transport,2012-13,783,Andhra_Pradesh
+Water transport,2013-14,528,Andhra_Pradesh
+Water transport,2014-15,681,Andhra_Pradesh
+Water transport,2015-16,798,Andhra_Pradesh
+Air transport,2011-12,7630,Andhra_Pradesh
+Air transport,2012-13,14732,Andhra_Pradesh
+Air transport,2013-14,15692,Andhra_Pradesh
+Air transport,2014-15,36582,Andhra_Pradesh
+Air transport,2015-16,42841,Andhra_Pradesh
+Services incidental to transport,2011-12,9842,Andhra_Pradesh
+Services incidental to transport,2012-13,12019,Andhra_Pradesh
+Services incidental to transport,2013-14,14738,Andhra_Pradesh
+Services incidental to transport,2014-15,16323,Andhra_Pradesh
+Services incidental to transport,2015-16,19116,Andhra_Pradesh
+Storage,2011-12,111006,Andhra_Pradesh
+Storage,2012-13,122608,Andhra_Pradesh
+Storage,2013-14,137454,Andhra_Pradesh
+Storage,2014-15,171696,Andhra_Pradesh
+Storage,2015-16,196868,Andhra_Pradesh
+Communication & services related to broadcasting,2011-12,875159,Andhra_Pradesh
+Communication & services related to broadcasting,2012-13,1064051,Andhra_Pradesh
+Communication & services related to broadcasting,2013-14,1649436,Andhra_Pradesh
+Communication & services related to broadcasting,2014-15,1914737,Andhra_Pradesh
+Communication & services related to broadcasting,2015-16,2016218,Andhra_Pradesh
+Financial services,2011-12,2518230,Andhra_Pradesh
+Financial services,2012-13,2862582,Andhra_Pradesh
+Financial services,2013-14,3133376,Andhra_Pradesh
+Financial services,2014-15,3392275,Andhra_Pradesh
+Financial services,2015-16,3605988,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2011-12,9745417,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2012-13,11527819,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2013-14,13018473,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2014-15,14548185,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2015-16,16038848,Andhra_Pradesh
+Public administration,2011-12,4234830,Andhra_Pradesh
+Public administration,2012-13,5058674,Andhra_Pradesh
+Public administration,2013-14,5483464,Andhra_Pradesh
+Public administration,2014-15,6152124,Andhra_Pradesh
+Public administration,2015-16,6823321,Andhra_Pradesh
+Other services,2011-12,3540115,Andhra_Pradesh
+Other services,2012-13,3862890,Andhra_Pradesh
+Other services,2013-14,4318007,Andhra_Pradesh
+Other services,2014-15,5034623,Andhra_Pradesh
+Other services,2015-16,5623362,Andhra_Pradesh
+"Agriculture, forestry and fishing",2011-12,1330208,Andhra_Pradesh
+"Agriculture, forestry and fishing",2012-13,1536643,Andhra_Pradesh
+"Agriculture, forestry and fishing",2013-14,1579095,Andhra_Pradesh
+"Agriculture, forestry and fishing",2014-15,1601423,Andhra_Pradesh
+"Agriculture, forestry and fishing",2015-16,1715039,Andhra_Pradesh
+Crops,2011-12,764026,Andhra_Pradesh
+Crops,2012-13,901730,Andhra_Pradesh
+Crops,2013-14,850163,Andhra_Pradesh
+Crops,2014-15,866146,Andhra_Pradesh
+Crops,2015-16,893917,Andhra_Pradesh
+Livestock,2011-12,287787,Andhra_Pradesh
+Livestock,2012-13,313744,Andhra_Pradesh
+Livestock,2013-14,351373,Andhra_Pradesh
+Livestock,2014-15,391188,Andhra_Pradesh
+Livestock,2015-16,447222,Andhra_Pradesh
+Forestry and logging,2011-12,274833,Andhra_Pradesh
+Forestry and logging,2012-13,317354,Andhra_Pradesh
+Forestry and logging,2013-14,373062,Andhra_Pradesh
+Forestry and logging,2014-15,339293,Andhra_Pradesh
+Forestry and logging,2015-16,368781,Andhra_Pradesh
+Fishing and aquaculture,2011-12,3562,Andhra_Pradesh
+Fishing and aquaculture,2012-13,3815,Andhra_Pradesh
+Fishing and aquaculture,2013-14,4497,Andhra_Pradesh
+Fishing and aquaculture,2014-15,4796,Andhra_Pradesh
+Fishing and aquaculture,2015-16,5119,Andhra_Pradesh
+Mining and quarrying,2011-12,186083,Andhra_Pradesh
+Mining and quarrying,2012-13,205726,Andhra_Pradesh
+Mining and quarrying,2013-14,354844,Andhra_Pradesh
+Mining and quarrying,2014-15,244549,Andhra_Pradesh
+Mining and quarrying,2015-16,298187,Andhra_Pradesh
+Manufacturing,2011-12,4365135,Andhra_Pradesh
+Manufacturing,2012-13,5082899,Andhra_Pradesh
+Manufacturing,2013-14,5439264,Andhra_Pradesh
+Manufacturing,2014-15,5866252,Andhra_Pradesh
+Manufacturing,2015-16,6132562,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2011-12,398079,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2012-13,416111,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2013-14,375058,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2014-15,433880,Andhra_Pradesh
+"Electricity, gas, water supply & other utility services",2015-16,541284,Andhra_Pradesh
+Construction,2011-12,883766,Andhra_Pradesh
+Construction,2012-13,936950,Andhra_Pradesh
+Construction,2013-14,1243051,Andhra_Pradesh
+Construction,2014-15,1342733,Andhra_Pradesh
+Construction,2015-16,1833004,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2011-12,1192897,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2012-13,1408869,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2013-14,1614577,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2014-15,1743106,Andhra_Pradesh
+"Trade, repair, hotels and restaurants",2015-16,1991602,Andhra_Pradesh
+Trade & repair services,2011-12,1013998,Andhra_Pradesh
+Trade & repair services,2012-13,1218822,Andhra_Pradesh
+Trade & repair services,2013-14,1426694,Andhra_Pradesh
+Trade & repair services,2014-15,1534073,Andhra_Pradesh
+Trade & repair services,2015-16,1768221,Andhra_Pradesh
+Hotels & restaurants,2011-12,178899,Andhra_Pradesh
+Hotels & restaurants,2012-13,190047,Andhra_Pradesh
+Hotels & restaurants,2013-14,187883,Andhra_Pradesh
+Hotels & restaurants,2014-15,209033,Andhra_Pradesh
+Hotels & restaurants,2015-16,223381,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2011-12,703706,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2012-13,825647,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2013-14,951652,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2014-15,1066693,Andhra_Pradesh
+"Transport, storage, communication & services related to broadcasting",2015-16,1224232,Andhra_Pradesh
+Railways,2011-12,14140,Andhra_Pradesh
+Railways,2012-13,16514,Andhra_Pradesh
+Railways,2013-14,17214,Andhra_Pradesh
+Railways,2014-15,21295,Andhra_Pradesh
+Railways,2015-16,24470,Andhra_Pradesh
+Road transport*,2011-12,218487,Andhra_Pradesh
+Road transport*,2012-13,259840,Andhra_Pradesh
+Road transport*,2013-14,287156,Andhra_Pradesh
+Road transport*,2014-15,307147,Andhra_Pradesh
+Road transport*,2015-16,339240,Andhra_Pradesh
+Water transport,2011-12,NA,Andhra_Pradesh
+Water transport,2012-13,NA,Andhra_Pradesh
+Water transport,2013-14,NA,Andhra_Pradesh
+Water transport,2014-15,NA,Andhra_Pradesh
+Water transport,2015-16,NA,Andhra_Pradesh
+Air transport,2011-12,652,Andhra_Pradesh
+Air transport,2012-13,1229,Andhra_Pradesh
+Air transport,2013-14,2158,Andhra_Pradesh
+Air transport,2014-15,3889,Andhra_Pradesh
+Air transport,2015-16,7053,Andhra_Pradesh
+Services incidental to transport,2011-12,NA,Andhra_Pradesh
+Services incidental to transport,2012-13,NA,Andhra_Pradesh
+Services incidental to transport,2013-14,NA,Andhra_Pradesh
+Services incidental to transport,2014-15,-76,Andhra_Pradesh
+Services incidental to transport,2015-16,NA,Andhra_Pradesh
+Storage,2011-12,579,Andhra_Pradesh
+Storage,2012-13,678,Andhra_Pradesh
+Storage,2013-14,735,Andhra_Pradesh
+Storage,2014-15,660,Andhra_Pradesh
+Storage,2015-16,699,Andhra_Pradesh
+Communication & services related to broadcasting,2011-12,469848,Andhra_Pradesh
+Communication & services related to broadcasting,2012-13,547386,Andhra_Pradesh
+Communication & services related to broadcasting,2013-14,644389,Andhra_Pradesh
+Communication & services related to broadcasting,2014-15,733778,Andhra_Pradesh
+Communication & services related to broadcasting,2015-16,852770,Andhra_Pradesh
+Financial services,2011-12,293318,Andhra_Pradesh
+Financial services,2012-13,320421,Andhra_Pradesh
+Financial services,2013-14,357514,Andhra_Pradesh
+Financial services,2014-15,385030,Andhra_Pradesh
+Financial services,2015-16,421624,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2011-12,588825,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2012-13,671182,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2013-14,739177,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2014-15,831307,Andhra_Pradesh
+"Real estate, ownership of dwelling & professional services",2015-16,935310,Andhra_Pradesh
+Public administration,2011-12,412001,Andhra_Pradesh
+Public administration,2012-13,323723,Andhra_Pradesh
+Public administration,2013-14,483887,Andhra_Pradesh
+Public administration,2014-15,579409,Andhra_Pradesh
+Public administration,2015-16,711920,Andhra_Pradesh
+Other services,2011-12,498856,Andhra_Pradesh
+Other services,2012-13,668947,Andhra_Pradesh
+Other services,2013-14,827478,Andhra_Pradesh
+Other services,2014-15,982430,Andhra_Pradesh
+Other services,2015-16,1255262,Andhra_Pradesh
